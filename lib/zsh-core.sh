@@ -1,7 +1,7 @@
 # FORK FROM OH MY ZSH
 
 
-ZSH_CACHE_DIR="$ZSH_SIMP/cache"
+ZSH_CACHE_DIR="$ZSH_SIMP_CACHE"
 SHORT_HOST=${HOST/.*/}
 autoload -Uz add-zsh-hook
 zmodload -i zsh/complist
@@ -84,7 +84,7 @@ case ${HIST_STAMPS-} in
   *) alias history="omz_history -t '$HIST_STAMPS'" ;;
 esac
 
-HISTFILE="$ZSH_SIMP/cache/zshhistory"
+HISTFILE="$ZSH_SIMP_CACHE/zshhistory"
 HISTSIZE=50000
 SAVEHIST=10000
 

@@ -24,7 +24,7 @@
 
 
 export RUNEWIDTH_EASTASIAN=0
-export FZF_DEFAULT_OPTS="--height 12 --layout=reverse --history=$ZSH_SIMP/cache/fzfhistory"
+export FZF_DEFAULT_OPTS="--height 12 --layout=reverse --history=$ZSH_SIMP_CACHE/fzfhistory"
 
 
 
