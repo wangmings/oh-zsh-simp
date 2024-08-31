@@ -82,8 +82,11 @@ _init_zsh_simp() {
 
 
 
-    # 激活starship主题
+    # 使用第三方 starship主题
     eval "$(starship init zsh)"
+
+    # 自带主题
+    # source $ZSH_SIMP/themes/simple.zsh-theme
 
     # 激活ruby的包管理工具
     eval "$(rbenv init -)"
