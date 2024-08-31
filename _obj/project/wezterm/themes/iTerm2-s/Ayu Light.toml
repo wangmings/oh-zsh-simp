@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#575F66"
+background = "#FAFAFA"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FAFAFA"
+cursor_bg = "#FF9940"
+cursor_border = "#FF9940"
+scrollbar_thumb = "#399EE6"
+
+ansi = ["#575F66", "#F51818", "#86B300", "#c47b00", "#399EE6", "#A37ACC", "#4CBF99", "#e8bcc8"]
+brights = ["#4a4543", "#DB7093", "#86B300", "#c47b00", "#00A1F1", "#A37ACC", "#4CBF99", "#e8bcc8"]
+
+[colors.indexed]
+[metadata]
+name = "Ayu Light"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CBCCC6"
+background = "#1F2430"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1F2430"
+cursor_bg = "#FFCC66"
+cursor_border = "#FFCC66"
+scrollbar_thumb = "#73D0FF"
+
+ansi = ["#727786", "#FF3333", "#BAE67E", "#FFA759", "#73D0FF", "#D4BFFF", "#95E6CB", "#CBCCC6"]
+brights = ["#EDECEE", "#FF3333", "#BAE67E", "#FFA759", "#73D0FF", "#D4BFFF", "#95E6CB", "#CBCCC6"]
+
+[colors.indexed]
+[metadata]
+name = "Ayu Mirage"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B3B1AD"
+background = "#0A0E14"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0A0E14"
+cursor_bg = "#E6B450"
+cursor_border = "#E6B450"
+scrollbar_thumb = "#59C2FF"
+
+ansi = ["#5b5e64", "#FF3333", "#C2D94C", "#FF8F40", "#59C2FF", "#FFEE99", "#95E6CB", "#B3B1AD"]
+brights = ["#EDECEE", "#FF3333", "#C2D94C", "#FF8F40", "#59C2FF", "#FFEE99", "#95E6CB", "#B3B1AD"]
+
+[colors.indexed]
+[metadata]
+name = "Ayu Dark"

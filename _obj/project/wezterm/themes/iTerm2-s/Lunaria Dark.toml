@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CACED8"
+background = "#36464E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#36464E"
+cursor_bg = "#CACED8"
+cursor_border = "#CACED8"
+scrollbar_thumb = "#555673"
+
+ansi = ["#8ea0a9", "#e7c3bd", "#809984", "#A79A79", "#b2b2d3", "#866C83", "#7E98B4", "#CACED8"]
+brights = ["#EDECEE", "#BB928B", "#BFDCC2", "#F1DFB6", "#777798", "#BF9DB9", "#BDDCFF", "#DFE2ED"]
+
+[colors.indexed]
+[metadata]
+name = "Lunaria Dark"

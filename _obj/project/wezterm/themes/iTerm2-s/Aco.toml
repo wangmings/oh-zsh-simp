@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B4E1FD"
+background = "#1F1305"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1F1305"
+cursor_bg = "#B4E1FD"
+cursor_border = "#B4E1FD"
+scrollbar_thumb = "#0883FF"
+
+ansi = ["#979797", "#FF0883", "#83FF08", "#FF8308", "#0883FF", "#8308FF", "#08FF83", "#BEBEBE"]
+brights = ["#EDECEE", "#FF1E8E", "#8EFF1E", "#FF8E1E", "#1E8EFF", "#8E1EFF", "#1EFF8E", "#C4C4C4"]
+
+[colors.indexed]
+[metadata]
+name = "Aco"

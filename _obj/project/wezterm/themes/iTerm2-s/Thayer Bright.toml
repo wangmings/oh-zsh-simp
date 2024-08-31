@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F8F8F8"
+background = "#1B1D1E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1B1D1E"
+cursor_bg = "#F8F8F8"
+cursor_border = "#F8F8F8"
+scrollbar_thumb = "#2757D6"
+
+ansi = ["#6c6f70", "#F92672", "#4DF840", "#F4FD22", "#2757D6", "#8C54FE", "#38C8B5", "#CCCCC6"]
+brights = ["#EDECEE", "#FF5995", "#B6E354", "#FEED6C", "#3F78FF", "#9E6FFE", "#23CFD5", "#F8F8F2"]
+
+[colors.indexed]
+[metadata]
+name = "Thayer Bright"

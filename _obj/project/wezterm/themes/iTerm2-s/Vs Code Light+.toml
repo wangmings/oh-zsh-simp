@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#020202"
+background = "#F9F9F9"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#F9F9F9"
+cursor_bg = "#020202"
+cursor_border = "#020202"
+scrollbar_thumb = "#0752A8"
+
+ansi = ["#020202", "#CD3232", "#00BC00", "#A5A900", "#0752A8", "#BC05BC", "#0598BC", "#343434"]
+brights = ["#4a4543", "#DB7093", "#1BCE1A", "#748e00", "#00A1F1", "#C451CE", "#52A8C7", "#A6A3A6"]
+
+[colors.indexed]
+[metadata]
+name = "Vs Code Light+"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F7F6EC"
+background = "#1E1E1E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1E1E1E"
+cursor_bg = "#F7F6EC"
+cursor_border = "#F7F6EC"
+scrollbar_thumb = "#4C9AD4"
+
+ansi = ["#8b918c", "#CF3F61", "#7BB75B", "#E9B32A", "#4C9AD4", "#A57FC4", "#389AAD", "#FAFAF6"]
+brights = ["#EDECEE", "#D18FA6", "#767F2C", "#78592F", "#135979", "#604291", "#76BBCA", "#B2B5AE"]
+
+[colors.indexed]
+[metadata]
+name = "Japanesque"

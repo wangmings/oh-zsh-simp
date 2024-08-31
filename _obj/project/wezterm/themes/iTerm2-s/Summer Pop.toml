@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#272822"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#272822"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#1E8EFF"
+
+ansi = ["#666666", "#FF1E8E", "#8EFF1E", "#FFFB00", "#1E8EFF", "#E500E5", "#00E5E5", "#E5E5E5"]
+brights = ["#EDECEE", "#FF1E8E", "#8EFF1E", "#FFFB00", "#1E8EFF", "#E500E5", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Summer Pop"

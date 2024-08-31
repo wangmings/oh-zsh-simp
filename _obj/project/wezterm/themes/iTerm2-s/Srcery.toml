@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FCE8C3"
+background = "#1C1B19"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1C1B19"
+cursor_bg = "#FBB829"
+cursor_border = "#FBB829"
+scrollbar_thumb = "#2C78BF"
+
+ansi = ["#6e6c6a", "#EF2F27", "#519F50", "#FBB829", "#2C78BF", "#E02C6D", "#0AAEB3", "#BAA67F"]
+brights = ["#EDECEE", "#F75341", "#98BC37", "#FED06E", "#68A8E4", "#FF5C8F", "#2BE4D0", "#FCE8C3"]
+
+[colors.indexed]
+[metadata]
+name = "Srcery"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#4D4D4C"
+background = "#FFFFFF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FFFFFF"
+cursor_bg = "#4C4C4C"
+cursor_border = "#4C4C4C"
+scrollbar_thumb = "#4171AE"
+
+ansi = ["#000000", "#C82828", "#718C00", "#b88600", "#4171AE", "#8959A8", "#3E999F", "#f0c0c0"]
+brights = ["#4a4543", "#DB7093", "#708B00", "#b78500", "#00A1F1", "#8958A7", "#3D999F", "#f0c0c0"]
+
+[colors.indexed]
+[metadata]
+name = "Tomorrow"

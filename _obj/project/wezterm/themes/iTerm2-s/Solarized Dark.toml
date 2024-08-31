@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#839496"
+background = "#002B36"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#002B36"
+cursor_bg = "#839496"
+cursor_border = "#839496"
+scrollbar_thumb = "#268BD2"
+
+ansi = ["#658d9b", "#DC322F", "#859900", "#CF9A6B", "#268BD2", "#D33682", "#2AA198", "#EEE8D5"]
+brights = ["#EDECEE", "#D87979", "#88CF76", "#657B83", "#2699FF", "#D33682", "#43B8C3", "#FDF6E3"]
+
+[colors.indexed]
+[metadata]
+name = "Solarized Dark"

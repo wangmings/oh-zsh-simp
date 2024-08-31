@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F8F8F2"
+background = "#272822"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#272822"
+cursor_bg = "#F8F8F2"
+cursor_border = "#F8F8F2"
+scrollbar_thumb = "#66D9EF"
+
+ansi = ["#75715E", "#F92672", "#A6E22E", "#F4BF75", "#66D9EF", "#AE81FF", "#2AA198", "#F9F8F5"]
+brights = ["#EDECEE", "#F92672", "#A6E22E", "#F4BF75", "#66D9EF", "#AE81FF", "#2AA198", "#F8F8F2"]
+
+[colors.indexed]
+[metadata]
+name = "Monokai Dark"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#94A3A5"
+background = "#141414"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#141414"
+cursor_bg = "#94A3A5"
+cursor_border = "#94A3A5"
+scrollbar_thumb = "#5F819D"
+
+ansi = ["#7c7f83", "#A54242", "#8C9440", "#DE935F", "#5F819D", "#85678F", "#5E8D87", "#969896"]
+brights = ["#EDECEE", "#CC6666", "#B5BD68", "#F0C674", "#81A2BE", "#B294BB", "#8ABEB7", "#C5C8C6"]
+
+[colors.indexed]
+[metadata]
+name = "Hybrid"

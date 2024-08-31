@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#444444"
+background = "#EFEFEF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#EFEFEF"
+cursor_bg = "#FF0054"
+cursor_border = "#FF0054"
+scrollbar_thumb = "#538091"
+
+ansi = ["#777777", "#FF0055", "#739100", "#503D15", "#538091", "#5B345E", "#538091", "#999999"]
+brights = ["#4a4543", "#DB7093", "#599900", "#947555", "#00A1F1", "#A184A4", "#85B2AA", "#a97f8b"]
+
+[colors.indexed]
+[metadata]
+name = "Hemisu Light"

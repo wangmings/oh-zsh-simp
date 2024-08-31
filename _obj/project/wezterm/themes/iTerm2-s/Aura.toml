@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#EDECEE"
+background = "#15141B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#15141B"
+cursor_bg = "#EDECEE"
+cursor_border = "#EDECEE"
+scrollbar_thumb = "#A277FF"
+
+ansi = ["#615f69", "#FF6767", "#61FFCA", "#FFCA85", "#A277FF", "#A277FF", "#61FFCA", "#EDECEE"]
+brights = ["#EDECEE", "#FFCA85", "#A277FF", "#FFCA85", "#A277FF", "#A277FF", "#61FFCA", "#EDECEE"]
+
+[colors.indexed]
+[metadata]
+name = "Aura"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#323232"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#323232"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#4099FF"
+
+ansi = ["#888888", "#D25252", "#7FE173", "#FFC66D", "#4099FF", "#F680FF", "#BED6FF", "#EEEEEC"]
+brights = ["#EDECEE", "#F07070", "#9DFF91", "#FFE48B", "#5EB7F7", "#FF9DFF", "#DCF4FF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Idle Toes"

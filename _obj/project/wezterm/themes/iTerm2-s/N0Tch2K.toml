@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#A0A0A0"
+background = "#222222"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222222"
+cursor_bg = "#A0A0A0"
+cursor_border = "#A0A0A0"
+scrollbar_thumb = "#657D3E"
+
+ansi = ["#8f8f8f", "#A95551", "#666666", "#A98051", "#657D3E", "#767676", "#C9C9C9", "#D0B8A3"]
+brights = ["#EDECEE", "#A97775", "#8C8C8C", "#A99175", "#98BD5E", "#A3A3A3", "#DCDCDC", "#D8C8BB"]
+
+[colors.indexed]
+[metadata]
+name = "N0Tch2K"

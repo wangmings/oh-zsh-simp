@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#BBBBBB"
+background = "#1B1D1E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1B1D1E"
+cursor_bg = "#BBBBBB"
+cursor_border = "#BBBBBB"
+scrollbar_thumb = "#D08010"
+
+ansi = ["#6c6f70", "#7325FA", "#23E298", "#60D4DF", "#D08010", "#FF0087", "#D0A843", "#BBBBBB"]
+brights = ["#EDECEE", "#9D66F6", "#5FE0B1", "#6DF2FF", "#FFAF00", "#FF87AF", "#FFCE51", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Molokai"

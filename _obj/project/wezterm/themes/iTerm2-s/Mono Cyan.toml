@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#00CCFF"
+background = "#00222B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#00222B"
+cursor_bg = "#00CCFF"
+cursor_border = "#00CCFF"
+scrollbar_thumb = "#00CCFF"
+
+ansi = ["#618a99", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF"]
+brights = ["#EDECEE", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF", "#00CCFF"]
+
+[colors.indexed]
+[metadata]
+name = "Mono Cyan"

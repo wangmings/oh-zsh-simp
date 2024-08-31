@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#657B83"
+background = "#FDF6E3"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FDF6E3"
+cursor_bg = "#657B83"
+cursor_border = "#657B83"
+scrollbar_thumb = "#268BD2"
+
+ansi = ["#073642", "#DC322F", "#859900", "#B58900", "#268BD2", "#D33682", "#2AA198", "#c3b683"]
+brights = ["#4a4543", "#DB7093", "#586E75", "#657B83", "#00A1F1", "#6C71C4", "#93A1A1", "#d3c390"]
+
+[colors.indexed]
+[metadata]
+name = "Solarized Light"

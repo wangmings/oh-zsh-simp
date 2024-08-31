@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFF4E"
+background = "#0000A4"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0000A4"
+cursor_bg = "#FFFF4E"
+cursor_border = "#FFFF4E"
+scrollbar_thumb = "#96CBFE"
+
+ansi = ["#aaaaaa", "#FF6C60", "#A8FF60", "#FFFFB6", "#96CBFE", "#FF73FD", "#C6C5FE", "#EEEEEE"]
+brights = ["#EDECEE", "#FFB6B0", "#CEFFAC", "#FFFFCC", "#B5DCFF", "#FF9CFE", "#DFDFFE", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Borland"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C9D1D9"
+background = "#161B22"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#161B22"
+cursor_bg = "#C9D1D9"
+cursor_border = "#C9D1D9"
+scrollbar_thumb = "#A5D6FF"
+
+ansi = ["#5d6167", "#E34C26", "#238636", "#ED9A51", "#A5D6FF", "#6EB0E8", "#C09AEB", "#C9D1D9"]
+brights = ["#EDECEE", "#FF7B72", "#3BAB4A", "#FFA657", "#A5D6FF", "#79C0FF", "#B694DF", "#C9D1D9"]
+
+[colors.indexed]
+[metadata]
+name = "Purple People Eater"

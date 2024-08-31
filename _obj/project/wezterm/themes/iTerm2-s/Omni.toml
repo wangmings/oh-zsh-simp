@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#ABB2BF"
+background = "#191622"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#191622"
+cursor_bg = "#ABB2BF"
+cursor_border = "#ABB2BF"
+scrollbar_thumb = "#78D1E1"
+
+ansi = ["#6a6675", "#E96379", "#67E480", "#E89E64", "#78D1E1", "#988BC7", "#FF79C6", "#ABB2BF"]
+brights = ["#EDECEE", "#E96379", "#67E480", "#E89E64", "#78D1E1", "#988BC7", "#FF79C6", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Omni"

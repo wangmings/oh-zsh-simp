@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#BAFFAA"
+cursor_border = "#BAFFAA"
+scrollbar_thumb = "#67BEE3"
+
+ansi = ["#444444", "#FF0054", "#B1D630", "#9D895E", "#67BEE3", "#B576BC", "#569A9F", "#EDEDED"]
+brights = ["#EDECEE", "#D65E75", "#BAFFAA", "#ECE1C8", "#9FD3E5", "#DEB3DF", "#B6E0E5", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Hemisu Dark"

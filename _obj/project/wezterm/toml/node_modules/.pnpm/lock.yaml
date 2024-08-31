@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@ltd/j-toml': ^1.38.0
+  yaml: ^2.4.2
+
+dependencies:
+  '@ltd/j-toml': 1.38.0
+  yaml: 2.4.2
+
+packages:
+
+  /@ltd/j-toml/1.38.0:
+    resolution: {integrity: sha512-lYtBcmvHustHQtg4X7TXUu1Xa/tbLC3p2wLvgQI+fWVySguVZJF60Snxijw5EiohumxZbR10kWYFFebh1zotiw==}
+    dev: false
+
+  /yaml/2.4.2:
+    resolution: {integrity: sha512-B3VqDZ+JAg1nZpaEmWtTXUlBneoGx6CPM9b0TENK6aoSu5t73dItudwdgmi6tHlIZZId4dZ9skcAQ2UbcyAeVA==}
+    engines: {node: '>= 14'}
+    hasBin: true
+    dev: false

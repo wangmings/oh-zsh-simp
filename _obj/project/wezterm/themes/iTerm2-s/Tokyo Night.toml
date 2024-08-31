@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C0CAF5"
+background = "#1A1B26"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1A1B26"
+cursor_bg = "#C0CAF5"
+cursor_border = "#C0CAF5"
+scrollbar_thumb = "#7AA2F7"
+
+ansi = ["#9ca2c7", "#F7768E", "#9ECE6A", "#E0AF68", "#7AA2F7", "#BB9AF7", "#7DCFFF", "#A9B1D6"]
+brights = ["#EDECEE", "#F7768E", "#9ECE6A", "#E0AF68", "#7AA2F7", "#BB9AF7", "#7DCFFF", "#C0CAF5"]
+
+[colors.indexed]
+[metadata]
+name = "Tokyo Night"

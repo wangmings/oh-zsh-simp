@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#BBBBBB"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#BBBBBB"
+cursor_border = "#BBBBBB"
+scrollbar_thumb = "#C48DFF"
+
+ansi = ["#555555", "#E52222", "#A6E32D", "#FC951E", "#C48DFF", "#FA2573", "#67D9F0", "#F2F2F2"]
+brights = ["#EDECEE", "#FF5555", "#55FF55", "#FFFF55", "#5555FF", "#FF55FF", "#55FFFF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Mathias"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#ADADAD"
+background = "#1B1C1D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1B1C1D"
+cursor_bg = "#ADADAD"
+cursor_border = "#ADADAD"
+scrollbar_thumb = "#2C70B7"
+
+ansi = ["#77797a", "#F8511B", "#565747", "#FA771D", "#2C70B7", "#F02E4F", "#3CA1A6", "#ADADAD"]
+brights = ["#EDECEE", "#F74319", "#74EC4C", "#FDC325", "#3393CA", "#E75E4F", "#4FBCE6", "#8C735B"]
+
+[colors.indexed]
+[metadata]
+name = "Frontend Delight"

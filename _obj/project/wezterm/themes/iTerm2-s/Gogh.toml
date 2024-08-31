@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#BFC7D5"
+background = "#292D3E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#292D3E"
+cursor_bg = "#BFC7D5"
+cursor_border = "#BFC7D5"
+scrollbar_thumb = "#75A1FF"
+
+ansi = ["#7f8297", "#F07178", "#62DE84", "#FFCB6B", "#75A1FF", "#F580FF", "#60BAEC", "#ABB2BF"]
+brights = ["#EDECEE", "#F07178", "#C3E88D", "#FF5572", "#82AAFF", "#FFCB6B", "#676E95", "#FFFEFE"]
+
+[colors.indexed]
+[metadata]
+name = "Gogh"

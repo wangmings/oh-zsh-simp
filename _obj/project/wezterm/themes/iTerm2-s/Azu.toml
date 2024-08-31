@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D9E6F2"
+background = "#09111A"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#09111A"
+cursor_bg = "#D9E6F2"
+cursor_border = "#D9E6F2"
+scrollbar_thumb = "#6D74AC"
+
+ansi = ["#555555", "#AC6D74", "#74AC6D", "#ACA46D", "#6D74AC", "#A46DAC", "#6DACA4", "#E6E6E6"]
+brights = ["#EDECEE", "#D6B8BC", "#BCD6B8", "#D6D3B8", "#B8BCD6", "#D3B8D6", "#B8D6D3", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Azu"

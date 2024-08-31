@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D8E2D7"
+background = "#0D4A08"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0D4A08"
+cursor_bg = "#D8E2D7"
+cursor_border = "#D8E2D7"
+scrollbar_thumb = "#4B9ED7"
+
+ansi = ["#2E8744", "#D84E4C", "#95DA5A", "#D6E264", "#4B9ED7", "#945FC5", "#D89B25", "#D8E2D7"]
+brights = ["#EDECEE", "#FF4F59", "#AFF56A", "#FCFF75", "#57AEFF", "#AE63E9", "#FFAA2B", "#FFFEFE"]
+
+[colors.indexed]
+[metadata]
+name = "Kokuban"

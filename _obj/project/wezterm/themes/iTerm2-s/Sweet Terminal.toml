@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#222235"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222235"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#F69154"
+
+ansi = ["#9897b0", "#F60055", "#06C993", "#9700BE", "#F69154", "#EC89CB", "#60ADEC", "#ABB2BF"]
+brights = ["#EDECEE", "#F60055", "#06C993", "#9700BE", "#F69154", "#EC89CB", "#00DDED", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Sweet Terminal"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C7C8FF"
+background = "#20242D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#20242D"
+cursor_bg = "#C7C8FF"
+cursor_border = "#C7C8FF"
+scrollbar_thumb = "#69B4F9"
+
+ansi = ["#737782", "#FF8E8E", "#7EFDD0", "#FCAD3F", "#69B4F9", "#DD92F6", "#8CE8FF", "#C9CCCD"]
+brights = ["#EDECEE", "#FF8E8E", "#7EFDD0", "#FCAD3F", "#69B4F9", "#DD92F6", "#8CE8FF", "#C9CCCD"]
+
+[colors.indexed]
+[metadata]
+name = "Neon Night"

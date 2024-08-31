@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FF3600"
+background = "#2B0C00"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2B0C00"
+cursor_bg = "#FF3600"
+cursor_border = "#FF3600"
+scrollbar_thumb = "#FF3600"
+
+ansi = ["#9f6554", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600"]
+brights = ["#EDECEE", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600", "#FF3600"]
+
+[colors.indexed]
+[metadata]
+name = "Mono Red"

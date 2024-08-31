@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C3C7D1"
+background = "#282C34"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#282C34"
+cursor_bg = "#C3C7D1"
+cursor_border = "#C3C7D1"
+scrollbar_thumb = "#7CB7FF"
+
+ansi = ["#7d818b", "#ED254E", "#71F79F", "#F9DC5C", "#7CB7FF", "#C74DED", "#00C1E4", "#DCDFE4"]
+brights = ["#EDECEE", "#ED254E", "#71F79F", "#F9DC5C", "#7CB7FF", "#C74DED", "#00C1E4", "#DCDFE4"]
+
+[colors.indexed]
+[metadata]
+name = "Sweet Eliverlara"

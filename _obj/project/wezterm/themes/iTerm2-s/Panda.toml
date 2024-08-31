@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F0F0F0"
+background = "#1D1E20"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1D1E20"
+cursor_bg = "#F0F0F0"
+cursor_border = "#F0F0F0"
+scrollbar_thumb = "#5C9FFF"
+
+ansi = ["#717173", "#FB055A", "#26FFD4", "#FDAA5A", "#5C9FFF", "#FC59A6", "#26FFD4", "#F0F0F0"]
+brights = ["#EDECEE", "#FB055A", "#26FFD4", "#FEBE7E", "#55ADFF", "#FD95D0", "#26FFD4", "#F0F0F0"]
+
+[colors.indexed]
+[metadata]
+name = "Panda"

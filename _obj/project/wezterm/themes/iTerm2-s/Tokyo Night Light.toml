@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#565A6E"
+background = "#D5D6DB"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#D5D6DB"
+cursor_bg = "#565A6E"
+cursor_border = "#565A6E"
+scrollbar_thumb = "#34548A"
+
+ansi = ["#0F0F14", "#8C4351", "#485E30", "#8F5E15", "#34548A", "#5A4A78", "#0F4B6E", "#343B58"]
+brights = ["#4a4543", "#DB7093", "#485E30", "#8F5E15", "#00A1F1", "#5A4A78", "#0F4B6E", "#343B58"]
+
+[colors.indexed]
+[metadata]
+name = "Tokyo Night Light"

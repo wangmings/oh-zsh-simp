@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#EEEEEE"
+background = "#282828"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#282828"
+cursor_bg = "#EEEEEE"
+cursor_border = "#EEEEEE"
+scrollbar_thumb = "#B3DEEF"
+
+ansi = ["#6f6f6f", "#C5152F", "#C9D05C", "#FFC24B", "#B3DEEF", "#D3B987", "#73CEF4", "#EEEEEE"]
+brights = ["#EDECEE", "#F43753", "#D9E066", "#FACC72", "#C0EAFB", "#EFD093", "#A1D6EC", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Tender"

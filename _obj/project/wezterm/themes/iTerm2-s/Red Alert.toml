@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#762423"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#762423"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#489BEE"
+
+ansi = ["#000000", "#D62E4E", "#71BE6B", "#BEB86B", "#489BEE", "#E979D7", "#6BBEB8", "#D6D6D6"]
+brights = ["#EDECEE", "#E02553", "#AFF08C", "#DFDDB7", "#65AAF1", "#DDB7DF", "#B7DFDD", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Red Alert"

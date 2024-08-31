@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CDD6F4"
+background = "#1E1E2E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1E1E2E"
+cursor_bg = "#CDD6F4"
+cursor_border = "#CDD6F4"
+scrollbar_thumb = "#89B4FA"
+
+ansi = ["#9fa1b7", "#F38BA8", "#A6E3A1", "#F9E2AF", "#89B4FA", "#F5C2E7", "#94E2D5", "#BAC2DE"]
+brights = ["#EDECEE", "#F38BA8", "#A6E3A1", "#F9E2AF", "#89B4FA", "#F5C2E7", "#94E2D5", "#A6ADC8"]
+
+[colors.indexed]
+[metadata]
+name = "Catppuccin Mocha"

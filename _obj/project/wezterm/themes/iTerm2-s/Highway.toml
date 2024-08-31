@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#EDEDED"
+background = "#222225"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222225"
+cursor_bg = "#EDEDED"
+cursor_border = "#EDEDED"
+scrollbar_thumb = "#006BB3"
+
+ansi = ["#555555", "#D00E18", "#138034", "#FFCB3E", "#006BB3", "#cd83d6", "#939ec2", "#EDEDED"]
+brights = ["#EDECEE", "#F07E18", "#B1D130", "#FFF120", "#4FC2FD", "#DE0071", "#5D504A", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Highway"

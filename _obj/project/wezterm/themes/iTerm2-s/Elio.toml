@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F2F2F2"
+background = "#041A3B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#041A3B"
+cursor_bg = "#F2F2F2"
+cursor_border = "#F2F2F2"
+scrollbar_thumb = "#729FCF"
+
+ansi = ["#868686", "#E1321A", "#6AB017", "#FFC005", "#729FCF", "#EC0048", "#2AA7E7", "#F2F2F2"]
+brights = ["#EDECEE", "#FF361E", "#7BC91F", "#FFD00A", "#0071FF", "#FF1D62", "#4BB8FD", "#A020F0"]
+
+[colors.indexed]
+[metadata]
+name = "Elio"

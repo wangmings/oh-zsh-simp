@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#004F7C"
+background = "#EBEAF2"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#EBEAF2"
+cursor_bg = "#439ECF"
+cursor_border = "#439ECF"
+scrollbar_thumb = "#439ECF"
+
+ansi = ["#003B4E", "#E64569", "#069F5F", "#a98700", "#439ECF", "#D961DC", "#00B1BE", "#a27884"]
+brights = ["#4a4543", "#DB7093", "#5aa05e", "#aab330", "#00A1F1", "#c044c6", "#00b2b0", "#cda1ad"]
+
+[colors.indexed]
+[metadata]
+name = "Nord Light"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFF0A5"
+background = "#13773D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#13773D"
+cursor_bg = "#FFF0A5"
+cursor_border = "#FFF0A5"
+scrollbar_thumb = "#0000A3"
+
+ansi = ["#000000", "#ff7f59", "#00BB00", "#E7B000", "#0000A3", "#ff78c0", "#00BBBB", "#BBBBBB"]
+brights = ["#EDECEE", "#ff7f59", "#00BB00", "#E7B000", "#0000BB", "#FF55FF", "#55FFFF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Grass"

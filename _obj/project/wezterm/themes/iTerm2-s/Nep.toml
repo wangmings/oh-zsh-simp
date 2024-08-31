@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#23476A"
+background = "#758480"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#758480"
+cursor_bg = "#23476A"
+cursor_border = "#23476A"
+scrollbar_thumb = "#6F00DD"
+
+ansi = ["#000000", "#ffd16e", "#00DD6F", "#6FDD00", "#ffdfff", "#fff3ff", "#9bcdff", "#F2F2F2"]
+brights = ["#EDECEE", "#FFB974", "#74FFB9", "#B9FF74", "#ffd7ff", "#ffdbff", "#dfffff", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Nep"

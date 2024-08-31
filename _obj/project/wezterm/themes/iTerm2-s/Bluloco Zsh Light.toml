@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#383A42"
+background = "#F9F9F9"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#F9F9F9"
+cursor_bg = "#383A42"
+cursor_border = "#383A42"
+scrollbar_thumb = "#275FE4"
+
+ansi = ["#abb1de", "#D52753", "#23974A", "#DF631C", "#275FE4", "#823FF1", "#27618D", "#000000"]
+brights = ["#4a4543", "#DB7093", "#3CBC66", "#C5A332", "#00A1F1", "#CE33C0", "#6D93BB", "#26272D"]
+
+[colors.indexed]
+[metadata]
+name = "Bluloco Zsh Light"

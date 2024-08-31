@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CCCCCC"
+background = "#333333"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#333333"
+cursor_bg = "#CCCCCC"
+cursor_border = "#CCCCCC"
+scrollbar_thumb = "#3771C8"
+
+ansi = ["#898989", "#FF5555", "#5FD38D", "#FF9955", "#3771C8", "#BC5FD3", "#5FD3BC", "#999999"]
+brights = ["#EDECEE", "#FF8080", "#87DEAA", "#FFB380", "#5F8DD3", "#CD87DE", "#87DECD", "#CCCCCC"]
+
+[colors.indexed]
+[metadata]
+name = "Dehydration"

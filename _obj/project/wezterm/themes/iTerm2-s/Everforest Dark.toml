@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D3C6AA"
+background = "#2F383E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2F383E"
+cursor_bg = "#D3C6AA"
+cursor_border = "#D3C6AA"
+scrollbar_thumb = "#7FBBB3"
+
+ansi = ["#a6b2b9", "#E67E80", "#A7C080", "#DBBC7F", "#7FBBB3", "#D699B6", "#83C092", "#D3C6AA"]
+brights = ["#EDECEE", "#F85552", "#8DA101", "#DFA000", "#3A94C5", "#DF69BA", "#35A77C", "#DFDDC8"]
+
+[colors.indexed]
+[metadata]
+name = "Everforest Dark"

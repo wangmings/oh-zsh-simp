@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E1E1E0"
+background = "#2D3743"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2D3743"
+cursor_bg = "#E1E1E0"
+cursor_border = "#E1E1E0"
+scrollbar_thumb = "#338F86"
+
+ansi = ["#b1b1b1", "#FF4242", "#74AF68", "#FFAD29", "#338F86", "#9414E6", "#23D7D7", "#E1E1E0"]
+brights = ["#EDECEE", "#FF3242", "#74CD68", "#FFB929", "#23D7D7", "#FF37FF", "#00EDE1", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Misterioso"

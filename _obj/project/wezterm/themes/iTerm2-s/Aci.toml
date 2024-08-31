@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B4E1FD"
+background = "#0D1926"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0D1926"
+cursor_bg = "#B4E1FD"
+cursor_border = "#B4E1FD"
+scrollbar_thumb = "#0883FF"
+
+ansi = ["#8d8d8d", "#FF0883", "#83FF08", "#FF8308", "#0883FF", "#8308FF", "#08FF83", "#B6B6B6"]
+brights = ["#EDECEE", "#FF1E8E", "#8EFF1E", "#FF8E1E", "#1E8EFF", "#8E1EFF", "#1EFF8E", "#C2C2C2"]
+
+[colors.indexed]
+[metadata]
+name = "Aci"

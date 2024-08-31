@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFCC2F"
+background = "#2C1D16"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2C1D16"
+cursor_bg = "#FFCC2F"
+cursor_border = "#FFCC2F"
+scrollbar_thumb = "#246EB2"
+
+ansi = ["#836f66", "#EF5734", "#2BAF2B", "#BEBF00", "#246EB2", "#D05EC1", "#00ACEE", "#BFBFBF"]
+brights = ["#EDECEE", "#E50000", "#86A93E", "#E5E500", "#b273ff", "#E500E5", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Jackie Brown"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E6E1DC"
+background = "#2B2B2B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2B2B2B"
+cursor_bg = "#E6E1DC"
+cursor_border = "#E6E1DC"
+scrollbar_thumb = "#6D9CBE"
+
+ansi = ["#b1b1b1", "#DA4939", "#519F50", "#FFD24A", "#6D9CBE", "#D0D0FF", "#6E9CBE", "#FFFFFF"]
+brights = ["#EDECEE", "#FF7B6B", "#83D182", "#FFFF7C", "#9FCEF0", "#FFFFFF", "#A0CEF0", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Broadcast"

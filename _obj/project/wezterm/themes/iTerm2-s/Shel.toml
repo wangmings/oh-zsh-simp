@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#4882CD"
+background = "#2A201F"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2A201F"
+cursor_bg = "#4882CD"
+cursor_border = "#4882CD"
+scrollbar_thumb = "#2C64A2"
+
+ansi = ["#817776", "#AB2463", "#6CA323", "#AB6423", "#2C64A2", "#d283ff", "#2CA363", "#918988"]
+brights = ["#EDECEE", "#F588B9", "#C2EE86", "#F5BA86", "#8FBAEC", "#C288EC", "#8FEEB9", "#F5EEEC"]
+
+[colors.indexed]
+[metadata]
+name = "Shel"

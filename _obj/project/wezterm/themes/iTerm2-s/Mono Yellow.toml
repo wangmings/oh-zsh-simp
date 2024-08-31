@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFD300"
+background = "#2B2400"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2B2400"
+cursor_bg = "#FFD300"
+cursor_border = "#FFD300"
+scrollbar_thumb = "#FFD300"
+
+ansi = ["#9d8b55", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300"]
+brights = ["#EDECEE", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300", "#FFD300"]
+
+[colors.indexed]
+[metadata]
+name = "Mono Yellow"

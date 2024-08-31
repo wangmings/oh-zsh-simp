@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#132738"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#132738"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#1460D2"
+
+ansi = ["#555555", "#FF0000", "#38DE21", "#FFE50A", "#1460D2", "#FF005D", "#00BBBB", "#BBBBBB"]
+brights = ["#EDECEE", "#F40E17", "#3BD01D", "#EDC809", "#5555FF", "#FF55FF", "#6AE3FA", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Cobalt 2"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#2B2B2B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2B2B2B"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#75A5B0"
+
+ansi = ["#b1b1b1", "#CDAF95", "#A8FF60", "#BFBB1F", "#75A5B0", "#FF73FD", "#5A647E", "#BFBFBF"]
+brights = ["#EDECEE", "#EECBAD", "#BCEE68", "#E5E500", "#86BDC9", "#E500E5", "#8C9BC4", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Rippedcasts"

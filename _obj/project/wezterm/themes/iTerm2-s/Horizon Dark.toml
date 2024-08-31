@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FDF0ED"
+background = "#1C1E26"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1C1E26"
+cursor_bg = "#FDF0ED"
+cursor_border = "#FDF0ED"
+scrollbar_thumb = "#26BBD9"
+
+ansi = ["#66666e", "#E95678", "#29D398", "#FAB795", "#26BBD9", "#EE64AE", "#59E3E3", "#FADAD1"]
+brights = ["#EDECEE", "#EC6A88", "#3FDAA4", "#FBC3A7", "#3FC6DE", "#F075B7", "#6BE6E6", "#FDF0ED"]
+
+[colors.indexed]
+[metadata]
+name = "Horizon Dark"

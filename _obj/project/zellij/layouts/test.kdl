@@ -1,0 +1,20 @@
+// zellij 面板使用
+// zellij --layout /Users/mac/project/omz/custom/zellij/layouts/layout.kdl
+
+
+
+// 示例
+layout {
+    pane {
+        name "输入"
+        size "40%"
+    }
+
+    pane split_direction="Vertical" {
+        pane size="15%" {
+            plugin location="zellij:strider"
+        }
+        children //显示目录
+    }
+}
+

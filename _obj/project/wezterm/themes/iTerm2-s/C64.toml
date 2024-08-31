@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#7869C4"
+background = "#40318D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#40318D"
+cursor_bg = "#7869C4"
+cursor_border = "#7869C4"
+scrollbar_thumb = "#40318D"
+
+ansi = ["#b7b3b1", "#f19589", "#55A049", "#BFCE72", "#a389f1", "#f19efa", "#67B6BD", "#FFFFFF"]
+brights = ["#EDECEE", "#f19589", "#55A049", "#BFCE72", "#a389f1", "#f19efa", "#67B6BD", "#F7F7F7"]
+
+[colors.indexed]
+[metadata]
+name = "C64"

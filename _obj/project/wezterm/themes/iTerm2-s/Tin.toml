@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#2E2E35"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2E2E35"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#534E8D"
+
+ansi = ["#b1b1b1", "#8D534E", "#4E8D53", "#888D4E", "#b3a9f0", "#8D4E88", "#4E888D", "#FFFFFF"]
+brights = ["#EDECEE", "#B57D78", "#78B57D", "#B0B578", "#7D78B5", "#B578B0", "#78B0B5", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Tin"

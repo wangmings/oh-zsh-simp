@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C2FFDF"
+background = "#42395D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#42395D"
+cursor_bg = "#FFB8D1"
+cursor_border = "#FFB8D1"
+scrollbar_thumb = "#AE81FF"
+
+ansi = ["#9d91ba", "#A8757B", "#FF857F", "#E6C000", "#AE81FF", "#716799", "#C2FFDF", "#F8F8F2"]
+brights = ["#EDECEE", "#FFB8D1", "#F1568E", "#D5A425", "#C5A3FF", "#8077A8", "#C2FFFF", "#F8F8F0"]
+
+[colors.indexed]
+[metadata]
+name = "Fairy Floss Dark"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D1CAE8"
+background = "#241F33"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#241F33"
+cursor_bg = "#D1CAE8"
+cursor_border = "#D1CAE8"
+scrollbar_thumb = "#AE81FF"
+
+ansi = ["#867e9b", "#FF857F", "#48B685", "#E6C000", "#AE81FF", "#EF6155", "#C2FFDF", "#F8F8F2"]
+brights = ["#EDECEE", "#F1568E", "#5ADBA2", "#D5A425", "#C5A3FF", "#EF6155", "#C2FFFF", "#F8F8F0"]
+
+[colors.indexed]
+[metadata]
+name = "Pixiefloss"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#A0A0A0"
+background = "#121212"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#121212"
+cursor_bg = "#A0A0A0"
+cursor_border = "#A0A0A0"
+scrollbar_thumb = "#66D9EF"
+
+ansi = ["#6c6f70", "#F92672", "#A6E22E", "#FD971F", "#66D9EF", "#9E6FFE", "#5E7175", "#CCCCC6"]
+brights = ["#EDECEE", "#FF669D", "#BEED5F", "#E6DB74", "#66D9EF", "#9E6FFE", "#A3BABF", "#F8F8F2"]
+
+[colors.indexed]
+[metadata]
+name = "Hardcore"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DEDEDE"
+background = "#121212"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#121212"
+cursor_bg = "#DEDEDE"
+cursor_border = "#DEDEDE"
+scrollbar_thumb = "#97BEDC"
+
+ansi = ["#929292", "#E27373", "#94B979", "#FFBA7B", "#97BEDC", "#E1C0FA", "#00988E", "#DEDEDE"]
+brights = ["#EDECEE", "#FFA1A1", "#BDDEAB", "#FFDCA0", "#B1D8F6", "#FBDAFF", "#1AB2A8", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Jellybeans"

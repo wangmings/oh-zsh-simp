@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#84C138"
+background = "#100B05"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#100B05"
+cursor_bg = "#84C138"
+cursor_border = "#84C138"
+scrollbar_thumb = "#246EB2"
+
+ansi = ["#555555", "#B6214A", "#00A600", "#BFBF00", "#246EB2", "#B200B2", "#00A6B2", "#BFBFBF"]
+brights = ["#EDECEE", "#E50000", "#86A93E", "#E5E500", "#0000FF", "#E500E5", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Hipster Green"

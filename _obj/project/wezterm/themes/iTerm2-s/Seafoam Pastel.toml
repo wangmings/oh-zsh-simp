@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D4E7D4"
+background = "#243435"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#243435"
+cursor_bg = "#D4E7D4"
+cursor_border = "#D4E7D4"
+scrollbar_thumb = "#4D7B82"
+
+ansi = ["#757575", "#825D4D", "#728C62", "#ADA16D", "#4D7B82", "#8A7267", "#729494", "#E0E0E0"]
+brights = ["#EDECEE", "#CF937A", "#98D9AA", "#FAE79D", "#7AC3CF", "#D6B2A1", "#ADE0E0", "#E0E0E0"]
+
+[colors.indexed]
+[metadata]
+name = "Seafoam Pastel"

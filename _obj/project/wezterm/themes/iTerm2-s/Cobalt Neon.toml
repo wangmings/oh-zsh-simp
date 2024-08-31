@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#8FF586"
+background = "#142838"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#142838"
+cursor_bg = "#8FF586"
+cursor_border = "#8FF586"
+scrollbar_thumb = "#8FF586"
+
+ansi = ["#677a87", "#FF2320", "#3BA5FF", "#E9E75C", "#8FF586", "#df7fff", "#8FF586", "#BA46B2"]
+brights = ["#EDECEE", "#D4312E", "#8FF586", "#E9F06D", "#3C7DD2", "#8230A7", "#6CBC67", "#8FF586"]
+
+[colors.indexed]
+[metadata]
+name = "Cobalt Neon"

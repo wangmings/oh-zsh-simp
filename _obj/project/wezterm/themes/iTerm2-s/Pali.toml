@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D9E6F2"
+background = "#232E37"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#232E37"
+cursor_bg = "#D9E6F2"
+cursor_border = "#D9E6F2"
+scrollbar_thumb = "#8F74AB"
+
+ansi = ["#5b5b5b", "#AB8F74", "#74AB8F", "#8FAB74", "#8F74AB", "#AB748F", "#748FAB", "#F2F2F2"]
+brights = ["#EDECEE", "#FF1D62", "#9CC3AF", "#FFD00A", "#AF9CC3", "#FF1D62", "#4BB8FD", "#A020F0"]
+
+[colors.indexed]
+[metadata]
+name = "Pali"

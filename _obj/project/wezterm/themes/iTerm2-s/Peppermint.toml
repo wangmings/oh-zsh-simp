@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C7C7C7"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#BBBBBB"
+cursor_border = "#BBBBBB"
+scrollbar_thumb = "#439ECF"
+
+ansi = ["#8c8c8c", "#E64569", "#89D287", "#DAB752", "#439ECF", "#D961DC", "#64AAAF", "#B3B3B3"]
+brights = ["#EDECEE", "#E4859A", "#A2CCA1", "#E1E387", "#6FBBE2", "#E586E7", "#96DCDA", "#DEDEDE"]
+
+[colors.indexed]
+[metadata]
+name = "Peppermint"

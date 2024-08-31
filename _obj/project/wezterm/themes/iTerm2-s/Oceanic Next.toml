@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B3B8C3"
+background = "#121B21"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#121B21"
+cursor_bg = "#B3B8C3"
+cursor_border = "#B3B8C3"
+scrollbar_thumb = "#5486C0"
+
+ansi = ["#626e74", "#E44754", "#89BD82", "#F7BD51", "#5486C0", "#B77EB8", "#50A5A4", "#FFFFFF"]
+brights = ["#EDECEE", "#E44754", "#89BD82", "#F7BD51", "#5486C0", "#B77EB8", "#50A5A4", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Oceanic Next"

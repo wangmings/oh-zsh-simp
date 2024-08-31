@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CAD3F5"
+background = "#24273A"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#24273A"
+cursor_bg = "#CAD3F5"
+cursor_border = "#CAD3F5"
+scrollbar_thumb = "#8AADF4"
+
+ansi = ["#a4a8c2", "#ED8796", "#A6DA95", "#EED49F", "#8AADF4", "#F5BDE6", "#8BD5CA", "#B8C0E0"]
+brights = ["#EDECEE", "#ED8796", "#A6DA95", "#EED49F", "#8AADF4", "#F5BDE6", "#8BD5CA", "#A5ADCB"]
+
+[colors.indexed]
+[metadata]
+name = "Catppuccin Macchiato"

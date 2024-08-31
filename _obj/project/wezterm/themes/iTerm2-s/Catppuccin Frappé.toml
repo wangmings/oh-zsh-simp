@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C6D0F5"
+background = "#303446"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#303446"
+cursor_bg = "#C6D0F5"
+cursor_border = "#C6D0F5"
+scrollbar_thumb = "#8CAAEE"
+
+ansi = ["#adb3cc", "#E78284", "#A6D189", "#E5C890", "#8CAAEE", "#F4B8E4", "#81C8BE", "#B5BFE2"]
+brights = ["#EDECEE", "#E78284", "#A6D189", "#E5C890", "#8CAAEE", "#F4B8E4", "#81C8BE", "#A5ADCE"]
+
+[colors.indexed]
+[metadata]
+name = "Catppuccin Frappé"

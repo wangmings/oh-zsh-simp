@@ -1,0 +1,19 @@
+
+[colors]
+foreground = "#ff9300"
+background = "#ffffff"
+selection_bg = "#f0ef83"
+selection_fg = "#444444"
+cursor_fg = "#ffffff"
+cursor_bg = "#666666"
+cursor_border = "#666666"
+scrollbar_thumb = "#1E90FF"
+
+ansi = ["#090300", "#db2d20", "#FF1493", "#ff9300", "#01a0e4", "#a16a94", "#1E90FF", "#a5a2a2"]
+brights = ["#090300", "#DB2D20", "#01A252", "#ff9300", "#01A0E4", "#A16A94", "#1E90FF", "#A5A2A2"]
+
+[colors.indexed]
+[metadata]
+name = "Zed"
+
+

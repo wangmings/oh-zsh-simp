@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B3B3B3"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#B3B3B3"
+cursor_border = "#B3B3B3"
+scrollbar_thumb = "#5555CC"
+
+ansi = ["#555555", "#CC5555", "#55CC55", "#CDCD55", "#5555CC", "#CC55CC", "#7ACACA", "#CCCCCC"]
+brights = ["#EDECEE", "#FF5555", "#55FF55", "#FFFF55", "#5555FF", "#FF55FF", "#55FFFF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Wez"

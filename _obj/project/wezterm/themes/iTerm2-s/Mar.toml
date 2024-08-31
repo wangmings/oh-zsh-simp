@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#23476A"
+background = "#FFFFFF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FFFFFF"
+cursor_bg = "#23476A"
+cursor_border = "#23476A"
+scrollbar_thumb = "#407BB5"
+
+ansi = ["#000000", "#B5407B", "#7BB540", "#B57B40", "#407BB5", "#7B40B5", "#40B57B", "#e7bac6"]
+brights = ["#4a4543", "#DB7093", "#5fa022", "#CDA073", "#00A1F1", "#A073CD", "#00a165", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Mar"

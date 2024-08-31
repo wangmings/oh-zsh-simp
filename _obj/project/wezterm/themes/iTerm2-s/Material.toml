@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C3C7D1"
+background = "#1E282C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1E282C"
+cursor_bg = "#657B83"
+cursor_border = "#657B83"
+scrollbar_thumb = "#80CBC3"
+
+ansi = ["#658d9a", "#EB606B", "#C3E88D", "#F7EB95", "#80CBC3", "#FF2490", "#AEDDFF", "#FFFFFF"]
+brights = ["#EDECEE", "#EB606B", "#C3E88D", "#F7EB95", "#7DC6BF", "#6C71C3", "#8c9ca8", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Material"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#00FF00"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#00FF00"
+cursor_border = "#00FF00"
+scrollbar_thumb = "#0000B2"
+
+ansi = ["#555555", "#990000", "#00A600", "#999900", "#9664ff", "#B200B2", "#00A6B2", "#BFBFBF"]
+brights = ["#EDECEE", "#E50000", "#00D900", "#E5E500", "#0000FF", "#E500E5", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Homebrew"

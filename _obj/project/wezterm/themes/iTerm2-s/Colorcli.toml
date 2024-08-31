@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#005F87"
+background = "#FFFFFF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FFFFFF"
+cursor_bg = "#005F87"
+cursor_border = "#005F87"
+scrollbar_thumb = "#005F87"
+
+ansi = ["#000000", "#D70000", "#5FAF00", "#5FAF00", "#005F87", "#D70000", "#5F5F5F", "#d3a7b3"]
+brights = ["#4a4543", "#DB7093", "#5F5F5F", "#c3ce00", "#00A1F1", "#0087AF", "#0087AF", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Colorcli"

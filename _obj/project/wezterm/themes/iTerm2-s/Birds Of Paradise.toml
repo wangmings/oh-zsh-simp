@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E0DBB7"
+background = "#2A1F1D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2A1F1D"
+cursor_bg = "#E0DBB7"
+cursor_border = "#E0DBB7"
+scrollbar_thumb = "#5A86AD"
+
+ansi = ["#b6957b", "#BE2D26", "#6BA18A", "#E99D2A", "#5A86AD", "#AC80A6", "#74A6AD", "#E0DBB7"]
+brights = ["#EDECEE", "#E84627", "#95D8BA", "#D0D150", "#B8D3ED", "#D19ECB", "#93CFD7", "#FFF9D5"]
+
+[colors.indexed]
+[metadata]
+name = "Birds Of Paradise"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#94A3A5"
+background = "#282A36"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#282A36"
+cursor_bg = "#94A3A5"
+cursor_border = "#94A3A5"
+scrollbar_thumb = "#8BE9FD"
+
+ansi = ["#9ea1b7", "#FF5555", "#50FA7B", "#FFB86C", "#8BE9FD", "#BD93F9", "#FF79C6", "#94A3A5"]
+brights = ["#EDECEE", "#FF5555", "#50FA7B", "#FFB86C", "#8BE9FD", "#BD93F9", "#FF79C6", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Dracula"

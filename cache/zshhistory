@@ -1,0 +1,287 @@
+: 1725056243:0;ls
+: 1725056448:0;ls -al
+: 1725056484:0;.config
+: 1725056486:0;ls
+: 1725056509:0;cd wezterm
+: 1725056513:0;ls -al
+: 1725056806:0;bash /Users/mac/oh-zsh-simp/_obj/project/wezterm/install.sh
+: 1725056810:0;ls
+: 1725056814:0;ls -al
+: 1725056832:0;ln -s ~/oh-zsh-simp/_obj/project/wezterm  ~/.config/wezterm
+: 1725056862:0;bash /Users/mac/oh-zsh-simp/_obj/project/wezterm/install.sh
+: 1725056866:0;ls -al
+: 1725056876:0;wezterm
+: 1725056877:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725056891:0;ls
+: 1725056989:0;echo $paths
+: 1725057061:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725057064:0;echo $paths
+: 1725057295:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725057312:0;echo $paths
+: 1725057464:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725057467:0;echo $paths
+: 1725057490:0;echo $sp
+: 1725057849:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725058060:0;bash /Users/mac/oh-zsh-simp/_obj/colors/color.zsh
+: 1725058235:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725058315:0;palette
+: 1725058351:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725058355:0;palette
+: 1725058397:0;palette256
+: 1725058681:0;echo $command
+: 1725058921:0;lss
+: 1725058929:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725058933:0;cs
+: 1725058939:0;lss
+: 1725058977:0;cs
+: 1725058998:0;colorls
+: 1725059004:0;which colorls
+: 1725059120:0;bash /Users/mac/oh-zsh-simp/_obj/project/colorls/install.sh
+: 1725059408:0;ruby -v
+: 1725059451:0;code .zshrc
+: 1725059524:0;rustup
+: 1725059582:0;rustup toolchain list\
+
+: 1725059598:0;rustup show\
+
+: 1725059608:0;ruby -v
+: 1725059657:0;rustup show
+: 1725059682:0;rustup default\
+
+: 1725059737:0;rustup default stable\
+
+: 1725059748:0;ruby -v
+: 1725059771:0;rustc --version\
+
+: 1725059816:0;rustup update stable\
+
+: 1725059935:0;/usr/local/opt/ruby/
+: 1725059937:0;ls
+: 1725059943:0;lib
+: 1725059944:0;ls
+: 1725060331:0;rustc --version\
+
+: 1725060338:0;ruby -v
+: 1725060351:0;ls
+: 1725060366:0;which ruby
+: 1725060374:0;/Users/mac/.rbenv/shims/ruby
+: 1725060379:0;/Users/mac/.rbenv/shims/
+: 1725060381:0;ls
+: 1725060405:0;colorls
+: 1725060413:0;./colorls
+: 1725060420:0;ls -al
+: 1725060549:0;rm -rf colorls
+: 1725060551:0;ls -al
+: 1725060558:0;ln -sf ~/oh-zsh-simp/_obj/project/colorls/colorls-1.4.6/exe/colorls $HOME/.rbenv/shims/colorls
+: 1725060561:0;ls -al
+: 1725060566:0;./colorls
+: 1725060626:0;gem list colorls\
+
+: 1725060637:0;gem install colorls\
+
+: 1725060668:0;rbenv versions\
+
+: 1725060698:0;rbenv global 3.2.2
+: 1725060705:0;gem list colorls\
+
+: 1725060731:0;ruby -v\
+
+: 1725060735:0;lss
+: 1725060746:0;ls
+: 1725060825:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725060834:0;ls
+: 1725060836:0;lss
+: 1725060854:0;colorls
+: 1725060949:0;logo-ls
+: 1725060958:0;cs
+: 1725060965:0;colorls
+: 1725060974:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725060977:0;lss
+: 1725061019:0;bash /Users/mac/oh-zsh-simp/_obj/project/colorls/colorls-1.4.6/install.sh
+: 1725061066:0;bash /Users/mac/oh-zsh-simp/_obj/project/colorls/install.sh
+: 1725061229:0;lss
+: 1725061238:0;colorls
+: 1725061253:0;rbenv versions\
+
+: 1725061266:0;rbenv global 3.3.0\
+
+: 1725061270:0;lss
+: 1725061484:0;ls
+: 1725061486:0;lss
+: 1725061494:0;rbenv global 3.2.2\
+
+: 1725061512:0;gem list
+: 1725061542:0;gem list colorls\
+
+: 1725061604:0;gem 'colorls'\
+
+: 1725061673:0;rbenv global 3.3.0\
+
+: 1725061675:0;gem list colorls\
+
+: 1725061689:0;rbenv global 3.2.2
+: 1725061708:0;rbenv uninstall 3.3.0
+: 1725061781:0;rbenv versions\
+\
+
+: 1725061801:0;rbenv global 2.6.0\
+\
+
+: 1725061805:0;gem list colorls\
+
+: 1725061894:0;rbenv -v
+: 1725061904:0;ruby -v\
+
+: 1725061910:0;lss
+: 1725061922:0;gem pristine clocale --version 0.0.4
+: 1725061933:0;gem list colorls\
+
+: 1725061981:0;gem list\
+
+: 1725061988:0;lss
+: 1725062001:0;gem list colorls\
+
+: 1725062121:0;gem install colorls -v 1.4.6\
+
+: 1725062160:0;gem list colorls\
+
+: 1725062183:0;gem uninstall colorls\
+
+: 1725062190:0;gem list colorls\
+
+: 1725062206:0;sudo gem uninstall colorls \
+
+: 1725062213:0;gem list colorls\
+
+: 1725062217:0;gem list\
+
+: 1725062288:0;gem list colorls -v 1.5.0\
+
+: 1725062295:0;gem list colorls\
+
+: 1725062317:0;gem uninstall colorls -v 1.5.0\
+
+: 1725062343:0;gem list colorls\
+
+: 1725062375:0;gem install colorls -v 1.4.6\
+
+: 1725062556:0;bash /Users/mac/oh-zsh-simp/_obj/project/colorls/install.sh
+: 1725062631:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725062637:0;ls
+: 1725062640:0;cs
+: 1725062645:0;lss
+: 1725062656:0;colorls
+: 1725062680:0;lss
+: 1725062683:0;ls
+: 1725062687:0;colorls
+: 1725062727:0;lss
+: 1725062762:0;which lss
+: 1725062796:0;logo-ls
+: 1725062846:0;lss
+: 1725062915:0;logo-ls
+: 1725062921:0;colorls
+: 1725062925:0;colorls -h
+: 1725062932:0;colorls -a
+: 1725062935:0;colorls -al
+: 1725063005:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725063008:0;lss
+: 1725063011:0;lss -al
+: 1725063015:0;lss -l
+: 1725063043:0;icon
+: 1725063078:0;icon -h
+: 1725063096:0;gits
+: 1725063157:0;icon
+: 1725063237:0;lss
+: 1725063240:0;lss -la
+: 1725063243:0;lss -a
+: 1725063250:0;cd
+: 1725063252:0;cs
+: 1725063616:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725063619:0;icon
+: 1725063637:0;chmod -x /Users/mac/oh-zsh-simp/_obj/project/colorls/colorls-1.4.6/color-zsh/icons/icon.sh
+: 1725063640:0;icon
+: 1725063653:0;ls -l /Users/mac/oh-zsh-simp/_obj/project/colorls/colorls-1.4.6/color-zsh/icons/icon.sh
+: 1725063699:0;chmod +x /Users/mac/oh-zsh-simp/_obj/project/colorls/colorls-1.4.6/color-zsh/icons/icon.sh
+: 1725063709:0;icon
+: 1725063725:0;laun
+: 1725063737:0;gits
+: 1725063746:0;text
+: 1725063816:0;cd
+: 1725063817:0;ls
+: 1725063837:0;gits -l
+: 1725063892:0;ls
+: 1725063973:0;gits -l
+: 1725064058:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725064061:0;gits -l
+: 1725064204:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725064208:0;gits -l
+: 1725065088:0;gits
+: 1725065107:0;gits -ls
+: 1725065133:0;gits -ld
+: 1725065171:0;gits -c hello
+: 1725065239:0;gits -del hello
+: 1725065322:0;ls
+: 1725065391:0;gits -c oh-zsh-simp 'Oh My Zsh çƒºƒ¤ç²¾ç®€çƒ©ƒ¨'
+: 1725065413:0;oh-zsh-simp
+: 1725065461:0;gits -up oh-zsh-simp 
+: 1725065696:0;rm -rf .git
+: 1725065706:0;git init
+: 1725065716:0;git add .
+: 1725065760:0;git commit -m "first commit"
+: 1725065770:0;git branch -M main
+: 1725065779:0;git remote add origin git@github.com:wangmings/oh-zsh-simp.git
+: 1725065793:0;git push -u origin main
+: 1725065988:0;git push origin --force\
+
+: 1725066005:0;git push --set-upstream origin main
+: 1725066077:0;rm -rf .git
+: 1725066088:0;gits -up oh-zsh-simp 
+: 1725066114:0;rm -rf .git
+: 1725066153:0;git init .\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin git@github.com:wangmings/oh-zsh-simp.git\
+git push -u origin main
+: 1725066166:0;rm -rf .git
+: 1725066177:0;echo "# oh-zsh-simp" >> README.md
+: 1725066200:0;git init .\
+
+: 1725066219:0;git add .
+: 1725066231:0;git commit -m "first commit"
+: 1725066243:0;git branch -M main
+: 1725066252:0;git remote add origin git@github.com:wangmings/oh-zsh-simp.git
+: 1725066267:0;git push -u origin main
+: 1725066317:0;rm -rf .git
+: 1725066340:0;gits -del oh-zsh-simp
+: 1725066446:0;gits -c oh-zsh-simp 'Oh My Zsh çƒºƒ¤ç²¾ç®€çƒ©ƒ¨'
+: 1725066523:0;echo "# oh-zsh-simp" >> README.md
+: 1725066530:0;git init
+: 1725066540:0;git add .
+: 1725066549:0;git commit -m "first commit"
+: 1725066557:0;git branch -M main
+: 1725066562:0;git remote add origin git@github.com:wangmings/oh-zsh-simp.git
+: 1725066568:0;git push -u origin main
+: 1725066601:0;git remote add origin git@github.com:wangmings/oh-zsh-simp.git
+: 1725066624:0;git push -u origin main
+: 1725066819:0;npm list
+: 1725066825:0;npm list -g
+: 1725066838:0;pip install git-filter-repo -g\
+
+: 1725066846:0;pip install git-filter-repo\
+
+: 1725066865:0;npm list -g
+: 1725066869:0;npm list
+: 1725066885:0;git filter-repo --path _obj/command/github/config.sh --invert-paths
+: 1725067030:0;pip uninstall git-filter-repo\
+
+: 1725067049:0;git push -u origin main
+: 1725067286:0;rm -rf .git
+: 1725067346:0;ls
+: 1725067352:0;bash up.sh
+: 1725072572:0;bash /Users/mac/.config/wezterm/shell/server.sh&;clear
+: 1725072575:0;ls
+: 1725072581:0;code up.sh
+: 1725072613:0;code /etc/hosts
+: 1725073533:0;oh-zsh-simp
+: 1725073548:0;bash ../up.sh

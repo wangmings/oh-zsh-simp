@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#BABABA"
+background = "#222324"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222324"
+cursor_bg = "#BABABA"
+cursor_border = "#BABABA"
+scrollbar_thumb = "#1C98E8"
+
+ansi = ["#555555", "#E8341C", "#68C256", "#F2D42C", "#1C98E8", "#8E69C9", "#1C98E8", "#BABABA"]
+brights = ["#EDECEE", "#E05A4F", "#77B869", "#EFD64B", "#387CD3", "#957BBE", "#3D97E2", "#BABABA"]
+
+[colors.indexed]
+[metadata]
+name = "Darkside"

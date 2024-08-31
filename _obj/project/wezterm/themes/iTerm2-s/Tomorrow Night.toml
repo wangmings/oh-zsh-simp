@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C5C8C6"
+background = "#1D1F21"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1D1F21"
+cursor_bg = "#C4C8C5"
+cursor_border = "#C4C8C5"
+scrollbar_thumb = "#81A2BE"
+
+ansi = ["#555555", "#CC6666", "#B5BD68", "#F0C674", "#81A2BE", "#B293BB", "#8ABEB7", "#FFFEFE"]
+brights = ["#EDECEE", "#CC6666", "#B5BD68", "#F0C574", "#80A1BD", "#B294BA", "#8ABDB6", "#FFFEFE"]
+
+[colors.indexed]
+[metadata]
+name = "Tomorrow Night"

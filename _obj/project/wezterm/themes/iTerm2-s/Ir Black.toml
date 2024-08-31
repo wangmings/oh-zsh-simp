@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#EEEEEE"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#FFA560"
+cursor_border = "#FFA560"
+scrollbar_thumb = "#69CBFE"
+
+ansi = ["#4E4E4E", "#FF6C60", "#A8FF60", "#FFFFB6", "#69CBFE", "#FF73FD", "#C6C5FE", "#EEEEEE"]
+brights = ["#EDECEE", "#FFB6B0", "#CEFFAC", "#FFFFCB", "#B5DCFE", "#FF9CFE", "#DFDFFE", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Ir Black"

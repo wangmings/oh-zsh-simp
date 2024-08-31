@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#484646"
+background = "#EBE4E1"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#EBE4E1"
+cursor_bg = "#484646"
+cursor_border = "#484646"
+scrollbar_thumb = "#3F3566"
+
+ansi = ["#3E3C3D", "#783C1F", "#497D46", "#8F750B", "#3F3566", "#793F62", "#3778A9", "#bf9781"]
+brights = ["#4a4543", "#DB7093", "#26942f", "#a98700", "#00A1F1", "#B56895", "#008eeb", "#d6aa96"]
+
+[colors.indexed]
+[metadata]
+name = "Lunaria Light"

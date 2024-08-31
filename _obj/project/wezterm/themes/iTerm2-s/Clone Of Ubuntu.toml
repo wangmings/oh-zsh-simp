@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#300A24"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#300A24"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#3465A4"
+
+ansi = ["#848b8d", "#CC0000", "#4E9A06", "#C4A000", "#3465A4", "#75507B", "#06989A", "#D3D7CF"]
+brights = ["#EDECEE", "#EF2929", "#8AE234", "#FCE94F", "#729FCF", "#AD7FA8", "#34E2E2", "#EEEEEC"]
+
+[colors.indexed]
+[metadata]
+name = "Clone Of Ubuntu"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D0D0D0"
+background = "#1C1C1C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1C1C1C"
+cursor_bg = "#D0D0D0"
+cursor_border = "#D0D0D0"
+scrollbar_thumb = "#7FA5BD"
+
+ansi = ["#858382", "#A36666", "#90A57D", "#D7AF87", "#7FA5BD", "#C79EC4", "#8ADBB4", "#D0D0D0"]
+brights = ["#EDECEE", "#D78787", "#AFBEA2", "#E4C9AF", "#A1BDCE", "#D7BEDA", "#B1E7DD", "#EFEFEF"]
+
+[colors.indexed]
+[metadata]
+name = "Pnevma"

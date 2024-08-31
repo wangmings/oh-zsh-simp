@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DEDEDE"
+background = "#2C2C2C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2C2C2C"
+cursor_bg = "#DEDEDE"
+cursor_border = "#DEDEDE"
+scrollbar_thumb = "#366B71"
+
+ansi = ["#818181", "#CC231C", "#689D69", "#D79922", "#366B71", "#a9acc3", "#458587", "#C8BB97"]
+brights = ["#EDECEE", "#CC231C", "#689D69", "#D79922", "#366B71", "#a9acc3", "#458587", "#C8BB97"]
+
+[colors.indexed]
+[metadata]
+name = "Chameleon"

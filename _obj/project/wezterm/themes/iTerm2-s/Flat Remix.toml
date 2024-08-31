@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#272A34"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#272A34"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#367BF0"
+
+ansi = ["#72757e", "#D41919", "#5EBDAB", "#FEA44C", "#367BF0", "#BF2E5D", "#49AEE6", "#E6E6E6"]
+brights = ["#EDECEE", "#EC0101", "#47D4B9", "#FF8A18", "#277FFF", "#D71655", "#05A1F7", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Flat Remix"

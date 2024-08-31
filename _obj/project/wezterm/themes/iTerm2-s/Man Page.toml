@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#000000"
+background = "#FEF49C"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FEF49C"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+scrollbar_thumb = "#0000B2"
+
+ansi = ["#000000", "#CC0000", "#00A600", "#999900", "#0000B2", "#B200B2", "#00A6B2", "#bb909c"]
+brights = ["#4a4543", "#DB7093", "#00a900", "#aab500", "#00A1F1", "#E500E5", "#00b9bc", "#d4a8b4"]
+
+[colors.indexed]
+[metadata]
+name = "Man Page"

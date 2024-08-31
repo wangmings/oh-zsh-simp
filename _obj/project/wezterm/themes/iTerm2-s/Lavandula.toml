@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#736E7D"
+background = "#050014"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#050014"
+cursor_bg = "#736E7D"
+cursor_border = "#736E7D"
+scrollbar_thumb = "#4F4A7F"
+
+ansi = ["#7e53a1", "#e77779", "#337E6F", "#7F6F49", "#4F4A7F", "#5A3F7F", "#58777F", "#736E7D"]
+brights = ["#EDECEE", "#E05167", "#52E0C4", "#E0C386", "#8E87E0", "#A776E0", "#9AD4E0", "#8C91FA"]
+
+[colors.indexed]
+[metadata]
+name = "Lavandula"

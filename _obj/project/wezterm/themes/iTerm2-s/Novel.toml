@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#3B2322"
+background = "#DFDBC3"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#DFDBC3"
+cursor_bg = "#3B2322"
+cursor_border = "#3B2322"
+scrollbar_thumb = "#0000CC"
+
+ansi = ["#000000", "#CC0000", "#009600", "#D06B00", "#0000CC", "#CC00CC", "#0087CC", "#bb909c"]
+brights = ["#4a4543", "#DB7093", "#009600", "#D06B00", "#00A1F1", "#CC00CC", "#0087CC", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Novel"

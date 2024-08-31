@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#ECF0C1"
+background = "#0A1E24"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0A1E24"
+cursor_bg = "#ECF0C1"
+cursor_border = "#ECF0C1"
+scrollbar_thumb = "#1DD3EE"
+
+ansi = ["#555555", "#FF4D83", "#1F8C3B", "#1FC95B", "#1DD3EE", "#8959A8", "#3E999F", "#FFFFFF"]
+brights = ["#EDECEE", "#FF0021", "#1FC231", "#D5B807", "#15A9FD", "#8959A8", "#3E999F", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Spring"

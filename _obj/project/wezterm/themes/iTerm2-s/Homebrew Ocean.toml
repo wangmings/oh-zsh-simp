@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#224FBC"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#224FBC"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#0000B2"
+
+ansi = ["#000000", "#ff7555", "#00A600", "#999900", "#ffc5ff", "#ff86ff", "#00A6B2", "#BFBFBF"]
+brights = ["#EDECEE", "#ff8b60", "#00D900", "#E5E500", "#b273ff", "#ff96ff", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Homebrew Ocean"

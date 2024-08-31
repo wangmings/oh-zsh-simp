@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FCFCFA"
+background = "#424043"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#424043"
+cursor_bg = "#FCFCFA"
+cursor_border = "#FCFCFA"
+scrollbar_thumb = "#FB976B"
+
+ansi = ["#848b8d", "#FC6386", "#9b999c", "#FCE94F", "#FB976B", "#d6acdc", "#34E2E2", "#FFFFFF"]
+brights = ["#EDECEE", "#FC6386", "#A9DC76", "#FCE94F", "#FB976B", "#AB9DF2", "#34E2E2", "#D1D1C0"]
+
+[colors.indexed]
+[metadata]
+name = "Wzoreck"

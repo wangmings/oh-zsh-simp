@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#786B53"
+background = "#191919"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#191919"
+cursor_bg = "#786B53"
+cursor_border = "#786B53"
+scrollbar_thumb = "#58859A"
+
+ansi = ["#8c6454", "#B2270E", "#44A900", "#AA820C", "#58859A", "#97363D", "#B25A1E", "#786B53"]
+brights = ["#EDECEE", "#ED5D20", "#55F238", "#F2B732", "#85CFED", "#E14C5A", "#F07D14", "#FFC800"]
+
+[colors.indexed]
+[metadata]
+name = "Treehouse"

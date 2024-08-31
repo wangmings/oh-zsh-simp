@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D6DBE5"
+background = "#131313"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#131313"
+cursor_bg = "#D6DBE5"
+cursor_border = "#D6DBE5"
+scrollbar_thumb = "#2A84D2"
+
+ansi = ["#717171", "#F81118", "#2DC55E", "#ECBA0F", "#2A84D2", "#4E5AB7", "#1081D6", "#D6DBE5"]
+brights = ["#EDECEE", "#DE352E", "#1DD361", "#F3BD09", "#1081D6", "#5350B9", "#0F7DDB", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Brogrammer"

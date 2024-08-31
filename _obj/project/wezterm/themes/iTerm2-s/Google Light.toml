@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#5F6368"
+background = "#FFFFFF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FFFFFF"
+cursor_bg = "#5F6368"
+cursor_border = "#5F6368"
+scrollbar_thumb = "#4285F4"
+
+ansi = ["#202124", "#EA4335", "#34A853", "#c98a00", "#4285F4", "#A142F4", "#24C1E0", "#a0badb"]
+brights = ["#4a4543", "#DB7093", "#34A853", "#c98a00", "#00A1F1", "#A142F4", "#24C1E0", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Google Light"

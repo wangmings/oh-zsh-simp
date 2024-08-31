@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D0D0D0"
+background = "#222222"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222222"
+cursor_bg = "#D0D0D0"
+cursor_border = "#D0D0D0"
+scrollbar_thumb = "#6C99BB"
+
+ansi = ["#656565", "#A53C23", "#7B9246", "#D3A04D", "#6C99BB", "#9F4E85", "#7DD6CF", "#D0D0D0"]
+brights = ["#EDECEE", "#A53C23", "#7B9246", "#D3A04D", "#547C99", "#9F4E85", "#7DD6CF", "#F5F5F5"]
+
+[colors.indexed]
+[metadata]
+name = "Afterglow"

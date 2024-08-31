@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C2FFDF"
+background = "#5A5475"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#5A5475"
+cursor_bg = "#FFB8D1"
+cursor_border = "#FFB8D1"
+scrollbar_thumb = "#AE81FF"
+
+ansi = ["#9d91ba", "#ffd6dc", "#FF857F", "#E6C000", "#AE81FF", "#d2c5fd", "#C2FFDF", "#F8F8F2"]
+brights = ["#EDECEE", "#FFB8D1", "#F1568E", "#D5A425", "#C5A3FF", "#e2d7ff", "#C2FFFF", "#F8F8F0"]
+
+[colors.indexed]
+[metadata]
+name = "Fairy Floss"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FDFDFD"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#FDFDFD"
+cursor_border = "#FDFDFD"
+scrollbar_thumb = "#00BFFF"
+
+ansi = ["#555555", "#FF0000", "#00FF00", "#FFFF00", "#00BFFF", "#FFC0CB", "#40E0D0", "#BEBEBE"]
+brights = ["#EDECEE", "#FFA500", "#98FB98", "#FFFF00", "#a06aff", "#A020F0", "#AEEEEE", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Ibm 3270 (High Contrast)"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F2F2E3"
+background = "#241B30"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#241B30"
+cursor_bg = "#F2F2E3"
+cursor_border = "#F2F2E3"
+scrollbar_thumb = "#6E29AD"
+
+ansi = ["#786d86", "#ff78a2", "#00986C", "#ADAD3E", "#6E29AD", "#B300AD", "#00B0B1", "#B9B1BC"]
+brights = ["#EDECEE", "#E60A70", "#0AE4A4", "#F9F972", "#AA54F9", "#FF00F6", "#00FBFD", "#F2F2E3"]
+
+[colors.indexed]
+[metadata]
+name = "Synthwave Alpha"

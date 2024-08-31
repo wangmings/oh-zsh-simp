@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C9CDD7"
+background = "#323F46"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#323F46"
+cursor_bg = "#C9CDD7"
+cursor_border = "#C9CDD7"
+scrollbar_thumb = "#53516F"
+
+ansi = ["#8998a0", "#e6bfb8", "#7F9781", "#A69875", "#b0acce", "#856880", "#7D96B2", "#C9CDD7"]
+brights = ["#EDECEE", "#BA9088", "#BEDBC1", "#F1DFB4", "#767495", "#BE9CB8", "#BCDBFF", "#DFE2ED"]
+
+[colors.indexed]
+[metadata]
+name = "Lunaria Eclipse"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#A39E9B"
+background = "#2F1E2E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2F1E2E"
+cursor_bg = "#A39E9B"
+cursor_border = "#A39E9B"
+scrollbar_thumb = "#06B6EF"
+
+ansi = ["#857184", "#EF6155", "#48B685", "#FEC418", "#06B6EF", "#815BA4", "#5BC4BF", "#A39E9B"]
+brights = ["#EDECEE", "#EF6155", "#48B685", "#FEC418", "#06B6EF", "#815BA4", "#5BC4BF", "#E7E9DB"]
+
+[colors.indexed]
+[metadata]
+name = "Paraiso Dark"

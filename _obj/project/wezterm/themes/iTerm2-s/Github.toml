@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#3E3E3E"
+background = "#F4F4F4"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#F4F4F4"
+cursor_bg = "#3E3E3E"
+cursor_border = "#3E3E3E"
+scrollbar_thumb = "#003E8A"
+
+ansi = ["#3E3E3E", "#970B16", "#07962A", "#cabc74", "#003E8A", "#E94691", "#00a6d3", "#edc0cd"]
+brights = ["#4a4543", "#DB7093", "#21a964", "#bba000", "#00A1F1", "#e26164", "#00cdd6", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Github"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C9C6BC"
+background = "#222222"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222222"
+cursor_bg = "#C9C6BC"
+cursor_border = "#C9C6BC"
+scrollbar_thumb = "#7C8FA5"
+
+ansi = ["#65676e", "#B24A56", "#92B477", "#C6735A", "#7C8FA5", "#A5789E", "#80CDCB", "#B3B8C3"]
+brights = ["#EDECEE", "#EC5F67", "#89E986", "#FEC254", "#5486C0", "#BF83C1", "#58C2C1", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Spacegray Eighties Dull"

@@ -1,0 +1,62 @@
+// 自定义窗口布局
+
+
+layout {
+
+    pane size=1 borderless=true {
+        plugin location="zellij:tab-bar"
+    }
+
+    pane split_direction="vertical" {
+        pane {
+
+            size "30%"
+
+            pane {
+                name "SSH"
+                size "25%"
+                // command "zsh"
+                // args "/Users/mac/project/omz/custom/zellij/mc.sh"
+            }
+
+            pane {
+                name "目录"
+                size "75%"
+                // command "zsh"
+                // args "/Users/mac/project/omz/custom/zellij/ms.zsh"
+            }
+        }
+
+        pane size="70%" split_direction="horizontal" {
+
+            pane{
+
+                pane size="25%" split_direction="vertical" {
+                    pane {
+                        name "输入"
+                        size "40%"
+                    }
+                    pane {
+                        name "历史"
+                        // size "40%"
+                    }
+                }
+
+                pane {
+                    name "显示"
+                    // size "75%"
+                    command "htop"
+                }
+            }
+
+        }
+
+        
+    }
+
+    
+
+    pane size=2 borderless=true {
+        plugin location="zellij:status-bar"
+    }
+}

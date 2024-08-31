@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D4D4D4"
+background = "#2D2D2D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2D2D2D"
+cursor_bg = "#D4D4D4"
+cursor_border = "#D4D4D4"
+scrollbar_thumb = "#7AABD4"
+
+ansi = ["#646464", "#F58E8E", "#A9D3AB", "#FED37E", "#7AABD4", "#D6ADD5", "#79D4D5", "#D4D4D4"]
+brights = ["#EDECEE", "#F58E8E", "#A9D3AB", "#FED37E", "#7AABD4", "#D6ADD5", "#79D4D5", "#D4D4D4"]
+
+[colors.indexed]
+[metadata]
+name = "Chalk"

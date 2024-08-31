@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#575279"
+background = "#FAF4ED"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FAF4ED"
+cursor_bg = "#575279"
+cursor_border = "#575279"
+scrollbar_thumb = "#286983"
+
+ansi = ["#d4b290", "#B4637A", "#56949F", "#EA9D34", "#286983", "#907AA9", "#D7827E", "#575279"]
+brights = ["#4a4543", "#DB7093", "#56949F", "#EA9D34", "#00A1F1", "#907AA9", "#D7827E", "#575279"]
+
+[colors.indexed]
+[metadata]
+name = "Rosé Pine Dawn"

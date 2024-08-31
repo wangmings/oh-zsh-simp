@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FAFAFA"
+background = "#262626"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#262626"
+cursor_bg = "#FAFAFA"
+cursor_border = "#FAFAFA"
+scrollbar_thumb = "#FAFAFA"
+
+ansi = ["#939393", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA"]
+brights = ["#EDECEE", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA", "#FAFAFA"]
+
+[colors.indexed]
+[metadata]
+name = "Mono White"

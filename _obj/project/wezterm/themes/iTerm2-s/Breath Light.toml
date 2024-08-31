@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#292F34"
+background = "#E8E8E8"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#E8E8E8"
+cursor_bg = "#292F34"
+cursor_border = "#292F34"
+scrollbar_thumb = "#1D99F3"
+
+ansi = ["#d7aab6", "#ED1515", "#C0392B", "#F67400", "#1D99F3", "#9B59B6", "#009068", "#eabdca"]
+brights = ["#4a4543", "#DB7093", "#55A649", "#cd8900", "#00A1F1", "#8E44AD", "#16A085", "#edc0cd"]
+
+[colors.indexed]
+[metadata]
+name = "Breath Light"

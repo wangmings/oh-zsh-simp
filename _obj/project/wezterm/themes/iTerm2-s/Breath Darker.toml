@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#17A88B"
+background = "#080D14"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#080D14"
+cursor_bg = "#17A88B"
+cursor_border = "#17A88B"
+scrollbar_thumb = "#1D99F3"
+
+ansi = ["#70757e", "#ED1515", "#44853A", "#F67400", "#1D99F3", "#9B59B6", "#1ABC9C", "#FCFCFC"]
+brights = ["#EDECEE", "#C0392B", "#55A649", "#FDBC4B", "#3DAEE9", "#8E44AD", "#16A085", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Breath Darker"

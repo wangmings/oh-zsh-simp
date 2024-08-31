@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F2F2F2"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#F2F2F2"
+cursor_border = "#F2F2F2"
+scrollbar_thumb = "#2009DB"
+
+ansi = ["#555555", "#990000", "#00A600", "#999900", "#2009DB", "#B200B2", "#00A6B2", "#BFBFBF"]
+brights = ["#EDECEE", "#E50000", "#00D900", "#E5E500", "#0000FF", "#E500E5", "#00E5E5", "#E5E5E5"]
+
+[colors.indexed]
+[metadata]
+name = "Pro"

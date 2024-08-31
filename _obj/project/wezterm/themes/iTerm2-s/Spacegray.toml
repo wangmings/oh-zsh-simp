@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B3B8C3"
+background = "#20242D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#20242D"
+cursor_bg = "#B3B8C3"
+cursor_border = "#B3B8C3"
+scrollbar_thumb = "#7D8FA4"
+
+ansi = ["#555555", "#B04B57", "#87B379", "#E5C179", "#7D8FA4", "#A47996", "#85A7A5", "#B3B8C3"]
+brights = ["#EDECEE", "#B04B57", "#87B379", "#E5C179", "#7D8FA4", "#A47996", "#85A7A5", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Spacegray"

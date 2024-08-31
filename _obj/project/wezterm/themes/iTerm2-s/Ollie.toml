@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#8A8DAE"
+background = "#222125"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222125"
+cursor_bg = "#8A8DAE"
+cursor_border = "#8A8DAE"
+scrollbar_thumb = "#2D57AC"
+
+ansi = ["#555555", "#AC2E31", "#31AC61", "#AC4300", "#2D57AC", "#B08528", "#1FA6AC", "#8A8EAC"]
+brights = ["#EDECEE", "#FF3D48", "#3BFF99", "#FF5E1E", "#4488FF", "#FFC21D", "#1FFAFF", "#5B6EA7"]
+
+[colors.indexed]
+[metadata]
+name = "Ollie"

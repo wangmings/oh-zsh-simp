@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFCB83"
+background = "#262626"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#262626"
+cursor_bg = "#FFCB83"
+cursor_border = "#FFCB83"
+scrollbar_thumb = "#BD6D00"
+
+ansi = ["#555555", "#C13900", "#A4A900", "#CAAF00", "#BD6D00", "#FC5E00", "#F79500", "#FFC88A"]
+brights = ["#EDECEE", "#FF8C68", "#F6FF40", "#FFE36E", "#FFBE55", "#FC874F", "#C69752", "#FAFAFF"]
+
+[colors.indexed]
+[metadata]
+name = "Ic Orange Ppl"

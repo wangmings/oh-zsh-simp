@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FBF2F3"
+background = "#3E3838"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#3E3838"
+cursor_bg = "#FBF2F3"
+cursor_border = "#FBF2F3"
+scrollbar_thumb = "#DC9373"
+
+ansi = ["#968f8f", "#DF7484", "#BBD87E", "#EDCE73", "#DC9373", "#A9AAE9", "#A4D7CC", "#FBF2F3"]
+brights = ["#EDECEE", "#DF7484", "#BBD87E", "#EDCE73", "#DC9373", "#A9AAE9", "#A4D7CC", "#FBF2F3"]
+
+[colors.indexed]
+[metadata]
+name = "Monokai Pro Ristretto"

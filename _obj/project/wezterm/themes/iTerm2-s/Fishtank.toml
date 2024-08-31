@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#ECF0FE"
+background = "#232537"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#232537"
+cursor_bg = "#ECF0FE"
+cursor_border = "#ECF0FE"
+scrollbar_thumb = "#525FB8"
+
+ansi = ["#605895", "#C6004A", "#ACF157", "#FECD5E", "#525FB8", "#986F82", "#968763", "#ECF0FC"]
+brights = ["#EDECEE", "#DA4B8A", "#DBFFA9", "#FEE6A9", "#B2BEFA", "#FDA5CD", "#A5BD86", "#F6FFEC"]
+
+[colors.indexed]
+[metadata]
+name = "Fishtank"

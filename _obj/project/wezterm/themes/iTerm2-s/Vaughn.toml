@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DCDCCC"
+background = "#25234F"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#25234F"
+cursor_bg = "#DCDCCC"
+cursor_border = "#DCDCCC"
+scrollbar_thumb = "#5555FF"
+
+ansi = ["#7e76ab", "#705050", "#60B48A", "#DFAF8F", "#5555FF", "#F08CC3", "#8CD0D3", "#709080"]
+brights = ["#EDECEE", "#DCA3A3", "#60B48A", "#F0DFAF", "#5555FF", "#EC93D3", "#93E0E3", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Vaughn"

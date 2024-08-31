@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#323232"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#323232"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#6C99BB"
+
+ansi = ["#8c8c8c", "#D25252", "#A5C261", "#FFC66D", "#6C99BB", "#D197D9", "#BED6FF", "#EEEEEC"]
+brights = ["#EDECEE", "#F00C0C", "#C2E075", "#E1E48B", "#8AB7D9", "#EFB5F7", "#DCF4FF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Espresso"

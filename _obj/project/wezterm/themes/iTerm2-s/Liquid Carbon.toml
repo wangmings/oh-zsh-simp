@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#AFC2C2"
+background = "#303030"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#303030"
+cursor_bg = "#AFC2C2"
+cursor_border = "#AFC2C2"
+scrollbar_thumb = "#0099CC"
+
+ansi = ["#b1b1b1", "#FF3030", "#559A70", "#CCAC00", "#0099CC", "#CC69C8", "#7AC4CC", "#BCCCCC"]
+brights = ["#EDECEE", "#FF3030", "#559A70", "#CCAC00", "#0099CC", "#CC69C8", "#7AC4CC", "#BCCCCC"]
+
+[colors.indexed]
+[metadata]
+name = "Liquid Carbon"

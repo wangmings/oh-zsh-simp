@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#94A3A5"
+background = "#252E32"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#252E32"
+cursor_bg = "#839496"
+cursor_border = "#839496"
+scrollbar_thumb = "#268BD2"
+
+ansi = ["#658d9b", "#DC322F", "#859900", "#B58900", "#268BD2", "#EC0048", "#2AA198", "#94A3A5"]
+brights = ["#EDECEE", "#CB4B16", "#859900", "#B58900", "#268BD2", "#D33682", "#2AA198", "#6C71C4"]
+
+[colors.indexed]
+[metadata]
+name = "Freya"

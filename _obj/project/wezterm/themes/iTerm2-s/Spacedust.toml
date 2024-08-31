@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#ECF0C1"
+background = "#0A1E24"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0A1E24"
+cursor_bg = "#ECF0C1"
+cursor_border = "#ECF0C1"
+scrollbar_thumb = "#0F548B"
+
+ansi = ["#6E5346", "#E35B00", "#5CAB96", "#E3CD7B", "#0F548B", "#E35B00", "#06AFC7", "#F0F1CE"]
+brights = ["#EDECEE", "#FF8A3A", "#AECAB8", "#FFC878", "#67A0CE", "#FF8A3A", "#83A7B4", "#FEFFF1"]
+
+[colors.indexed]
+[metadata]
+name = "Spacedust"

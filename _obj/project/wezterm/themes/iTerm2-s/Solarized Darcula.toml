@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D2D8D9"
+background = "#3D3F41"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#3D3F41"
+cursor_bg = "#D2D8D9"
+cursor_border = "#D2D8D9"
+scrollbar_thumb = "#2075C7"
+
+ansi = ["#797d7f", "#F24840", "#629655", "#B68800", "#2075C7", "#797FD4", "#15968D", "#D2D8D9"]
+brights = ["#EDECEE", "#F24840", "#629655", "#B68800", "#2075C7", "#797FD4", "#15968D", "#D2D8D9"]
+
+[colors.indexed]
+[metadata]
+name = "Solarized Darcula"

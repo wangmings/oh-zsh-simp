@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFAF4"
+background = "#0E1019"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0E1019"
+cursor_bg = "#FFFAF4"
+cursor_border = "#FFFAF4"
+scrollbar_thumb = "#008DF8"
+
+ansi = ["#767676", "#FF000F", "#8CE10B", "#FFB900", "#008DF8", "#6D43A6", "#00D8EB", "#FFFFFF"]
+brights = ["#EDECEE", "#FF2740", "#ABE15B", "#FFD242", "#0092FF", "#9A5FEB", "#67FFF0", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Argonaut"

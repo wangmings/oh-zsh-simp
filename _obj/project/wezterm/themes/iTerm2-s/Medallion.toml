@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CAC296"
+background = "#1D1908"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1D1908"
+cursor_bg = "#CAC296"
+cursor_border = "#CAC296"
+scrollbar_thumb = "#616BB0"
+
+ansi = ["#555555", "#B64C00", "#7C8B16", "#D3BD26", "#616BB0", "#8C5A90", "#916C25", "#CAC29A"]
+brights = ["#EDECEE", "#FF9149", "#B2CA3B", "#FFE54A", "#ACB8FF", "#FFA0FF", "#FFBC51", "#FED698"]
+
+[colors.indexed]
+[metadata]
+name = "Medallion"

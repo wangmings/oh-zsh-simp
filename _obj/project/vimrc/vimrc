@@ -1,0 +1,207 @@
+" Configuration file for vim
+
+
+" 设置字体编码
+set enc=utf8
+set encoding=UTF-8
+set fencs=utf8,gbk,gb2312,gb18030
+set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
+
+
+" 显示行号
+" set nu
+
+" 颜色主题
+"  colorscheme industry
+
+" 打开语法高亮
+syntax on
+
+
+"显示匹配括号
+set showmatch          
+
+"设置Tab长度为2空格
+set tabstop=2          
+
+"设置自动缩进长度为2空格
+set shiftwidth=2       
+set softtabstop=2
+
+" vim使用自动对齐，也就是把当前行的对齐格式应用到下一行(自动缩进)
+set autoindent         
+
+" (cindent是特别针对 C语言语法自动缩进)
+set cindent            
+
+" 依据上面的对齐格式，智能的选择对齐方式，对于类似C语言编写上有用
+set smartindent        
+
+" 光标移动到buffer的顶部和底部时保持3行距离
+set scrolloff=3        
+
+" 输入搜索内容时就显示搜索结果
+set incsearch          
+
+" 搜索时高亮显示被找到的文本
+set hlsearch           
+
+" 继承前一行的缩进方式，适用于多行注释
+set autoindent         
+
+" 总是显示状态栏
+"set laststatus=2       
+
+" 显示光标当前位置
+"set ruler 
+
+" 支持鼠标操作
+set mouse=a             
+
+
+
+
+" 显示还没有输入完整的命令.例如yy命令
+set showcmd
+
+" 使用Tab键补全时,在状态栏显示匹配的列表
+set wildmenu
+
+" 高亮显示匹配的括号
+set showmatch
+
+" 去掉有关vi一致性模式,避免操作习惯
+set nocompatible
+
+" 1=启动显示状态行, 2=总是显示状态行.
+set laststatus=2
+
+" 显示文件光标位置百分比时间等信息
+set statusline=%F%r\ [HEX=%B][%l,%v,%P]\ %{strftime(\"%H:%M\")}
+
+" 自动缩进时,缩进长度为4
+set shiftwidth=4
+
+" 输入Tab字符时,自动替换成空格
+set expandtab
+
+" softtabstop的值为负数,会使用shiftwidth的值,两者保持一致,方便统一缩进.
+set softtabstop=-1
+
+
+" 自动跳转到上次退出的位置
+if has("autocmd")
+    au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+endif
+
+
+
+" vim插件管理vim-plug
+" https://github.com/junegunn/vim-plug
+" 安装命令: 
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+
+
+
+
+
+
+
+
+
+" 加载配置vim插件
+call plug#begin()
+
+  " 代码格式化
+  Plug 'chiel92/vim-autoformat'
+
+
+  " Tab键自动补全
+  Plug 'ervandew/supertab'
+
+
+  " 自动匹配成对括号
+  Plug 'jiangmiao/auto-pairs'
+
+  " 文件管理器
+  Plug 'preservim/nerdtree'
+
+  " 文件图标插件
+  Plug 'ryanoasis/vim-devicons' 
+
+  " 文件图标颜色插件
+  Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+
+
+
+call plug#end()
+
+
+
+
+
+
+"  启用 NERDTree 插件
+"  filetype plugin on
+"  au VimEnter * NERDTree
+
+
+
+"  启用 vim-devicons 插件
+"  let g:webdevicons_enable = 1
+"  let g:webdevicons_enable_nerdtree = 1
+"  let g:webdevicons_conceal_nerdtree_brackets = 1
+
+let g:NERDTreeDirArrowExpandable = ''
+let g:NERDTreeDirArrowCollapsible = ''
+autocmd FileType nerdtree hi CursorLine cterm=NONE ctermbg='6' ctermfg='231'
+
+
+
+
+
+
+
+"  NERDTree插件中的一些常用命令绑定
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
+"  退出vim快捷键  
+nnoremap <C-q> :q!<CR>
+"  设置vim行号
+nnoremap <C-l> :set nu<CR>
+
+
+
+
+"  代码格式化快捷键: l
+"  nnoremap <C-l> :Autoformat<CR>
+
+
+
+" 定义一个函数用于切换主题
+let g:num = 0
+let g:set_nu = 0
+function! SetNu()
+  let g:num += 1
+  if g:set_nu == 0
+    set nu
+    let g:set_nu = 1
+  else
+    set nonu
+    let g:set_nu = 0
+  endif
+endfunction
+
+
+" 设置行号
+nnoremap <C-l> :call SetNu()<CR>
+
+
+
+
+
+

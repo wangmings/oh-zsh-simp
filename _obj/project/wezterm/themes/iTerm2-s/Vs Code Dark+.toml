@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CCCCCC"
+background = "#1E1E1E"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1E1E1E"
+cursor_bg = "#CCCCCC"
+cursor_border = "#CCCCCC"
+scrollbar_thumb = "#44AAE6"
+
+ansi = ["#6A787A", "#E9653B", "#39E9A8", "#E5B684", "#44AAE6", "#E17599", "#3DD5E7", "#C3DDE1"]
+brights = ["#EDECEE", "#E65029", "#00FF9A", "#E89440", "#009AFB", "#FF578F", "#5FFFFF", "#D9FBFF"]
+
+[colors.indexed]
+[metadata]
+name = "Vs Code Dark+"

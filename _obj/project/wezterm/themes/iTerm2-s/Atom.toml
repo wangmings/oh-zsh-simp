@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C5C8C6"
+background = "#161719"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#161719"
+cursor_bg = "#C5C8C6"
+cursor_border = "#C5C8C6"
+scrollbar_thumb = "#85BEFD"
+
+ansi = ["#555555", "#FD5FF1", "#87C38A", "#FFD7B1", "#85BEFD", "#B9B6FC", "#85BEFD", "#E0E0E0"]
+brights = ["#EDECEE", "#FD5FF1", "#94FA36", "#F5FFA8", "#96CBFE", "#B9B6FC", "#85BEFD", "#E0E0E0"]
+
+[colors.indexed]
+[metadata]
+name = "Atom"

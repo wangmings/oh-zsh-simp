@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E8EAED"
+background = "#202124"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#202124"
+cursor_bg = "#E8EAED"
+cursor_border = "#E8EAED"
+scrollbar_thumb = "#4285F4"
+
+ansi = ["#737477", "#EA4335", "#34A853", "#FBBC04", "#4285F4", "#A142F4", "#24C1E0", "#E8EAED"]
+brights = ["#EDECEE", "#EA4335", "#34A853", "#FBBC05", "#4285F4", "#A142F4", "#24C1E0", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Google Dark"

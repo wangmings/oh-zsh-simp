@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#EFF0EB"
+background = "#282A36"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#282A36"
+cursor_bg = "#97979B"
+cursor_border = "#97979B"
+scrollbar_thumb = "#57C7FF"
+
+ansi = ["#7d7f8d", "#FF5C57", "#5AF78E", "#F3F99D", "#57C7FF", "#FF6AC1", "#9AEDFE", "#F1F1F0"]
+brights = ["#EDECEE", "#FF5C57", "#5AF78E", "#F3F99D", "#57C7FF", "#FF6AC1", "#9AEDFE", "#EFF0EB"]
+
+[colors.indexed]
+[metadata]
+name = "Snazzy"

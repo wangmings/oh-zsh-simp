@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DEB88D"
+background = "#09141B"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#09141B"
+cursor_bg = "#DEB88D"
+cursor_border = "#DEB88D"
+scrollbar_thumb = "#1E4950"
+
+ansi = ["#718fa7", "#D15123", "#027C9B", "#FCA02F", "#79a3ab", "#68D4F1", "#50A3B5", "#DEB88D"]
+brights = ["#EDECEE", "#D48678", "#628D98", "#FDD39F", "#1BBCDD", "#BBE3EE", "#87ACB4", "#FEE4CE"]
+
+[colors.indexed]
+[metadata]
+name = "Sea Shells"

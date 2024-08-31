@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#45373C"
+background = "#D5CCBA"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#D5CCBA"
+cursor_bg = "#45373C"
+cursor_border = "#45373C"
+scrollbar_thumb = "#426A79"
+
+ansi = ["#20111B", "#BE100E", "#858162", "#bd7200", "#426A79", "#97522C", "#4d708b", "#968C83"]
+brights = ["#4a4543", "#DB7093", "#858162", "#bd7200", "#00A1F1", "#97522C", "#4d708b", "#ae9a6a"]
+
+[colors.indexed]
+[metadata]
+name = "Belafonte Day"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E9E9E9"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#E9E9E9"
+cursor_border = "#E9E9E9"
+scrollbar_thumb = "#79A6DA"
+
+ansi = ["#555555", "#D54E53", "#B9CA49", "#E7C547", "#79A6DA", "#C397D8", "#70C0B1", "#FFFEFE"]
+brights = ["#EDECEE", "#D44D53", "#B9C949", "#E6C446", "#79A6DA", "#C396D7", "#70C0B1", "#FFFEFE"]
+
+[colors.indexed]
+[metadata]
+name = "Tomorrow Night Bright"

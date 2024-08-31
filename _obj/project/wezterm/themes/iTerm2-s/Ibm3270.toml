@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FDFDFD"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#FDFDFD"
+cursor_border = "#FDFDFD"
+scrollbar_thumb = "#7890F0"
+
+ansi = ["#757575", "#F01818", "#24D830", "#F0D824", "#7890F0", "#F078D8", "#54E4E4", "#A5A5A5"]
+brights = ["#EDECEE", "#EF8383", "#7ED684", "#EFE28B", "#B3BFEF", "#EFB3E3", "#9CE2E2", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Ibm3270"

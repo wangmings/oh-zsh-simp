@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E0E0E0"
+background = "#1F1926"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1F1926"
+cursor_bg = "#C7C7C7"
+cursor_border = "#C7C7C7"
+scrollbar_thumb = "#40B4C4"
+
+ansi = ["#917892", "#EB64B9", "#AFD686", "#FEAE87", "#40B4C4", "#B381C5", "#215969", "#91889B"]
+brights = ["#EDECEE", "#FC2377", "#50FA7B", "#FFE261", "#74DFC4", "#6D75E0", "#B4DCE7", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Laserwave"

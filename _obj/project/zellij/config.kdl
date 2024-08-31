@@ -1,0 +1,22 @@
+
+// 设置启动窗口默认布局
+default_layout "default"
+
+// 设置主题
+theme "catppuccin-latte"
+
+//鼠标模式
+mouse_mode true 
+
+// osx 复制命令"pbcopy" 
+copy_command "pbcopy"   
+
+// 启用或禁用释放鼠标时自动复制（和清除）所选内容
+copy_on_select false
+
+//复制剪贴板
+// copy_clipboard "primary" 
+
+//简化用户界面
+// simplified_ui true 
+

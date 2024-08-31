@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#4A4543"
+background = "#F7F7F7"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#F7F7F7"
+cursor_bg = "#4A4543"
+cursor_border = "#4A4543"
+scrollbar_thumb = "#01A0E4"
+
+ansi = ["#090300", "#DB2D20", "#01A252", "#c4bc00", "#01A0E4", "#A16A94", "#3bb9d9", "#A5A2A2"]
+brights = ["#4a4543", "#DB7093", "#3A3432", "#4A4543", "#00A1F1", "#b9a084", "#CDAB53", "#e6b9c5"]
+
+[colors.indexed]
+[metadata]
+name = "3024 Day"

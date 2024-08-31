@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D8DEE9"
+background = "#2E3440"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2E3440"
+cursor_bg = "#D8DEE9"
+cursor_border = "#D8DEE9"
+scrollbar_thumb = "#81A1C1"
+
+ansi = ["#949bae", "#BF616A", "#A3BE8C", "#EBCB8B", "#81A1C1", "#B48EAD", "#88C0D0", "#E5E9F0"]
+brights = ["#EDECEE", "#BF616A", "#A3BE8C", "#EBCB8B", "#81A1C1", "#B48EAD", "#8FBCBB", "#ECEFF4"]
+
+[colors.indexed]
+[metadata]
+name = "Nord"

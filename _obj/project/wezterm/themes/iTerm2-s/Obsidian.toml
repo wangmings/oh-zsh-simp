@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CDCDCD"
+background = "#283033"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#283033"
+cursor_bg = "#CDCDCD"
+cursor_border = "#CDCDCD"
+scrollbar_thumb = "#3A9BDB"
+
+ansi = ["#b1b1b1", "#ff7957", "#00BB00", "#FECD22", "#3A9BDB", "#BB00BB", "#00BBBB", "#BBBBBB"]
+brights = ["#EDECEE", "#FF0003", "#93C863", "#FEF874", "#A1D7FF", "#FF55FF", "#55FFFF", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Obsidian"

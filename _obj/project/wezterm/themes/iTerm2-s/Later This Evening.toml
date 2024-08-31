@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#959595"
+background = "#222222"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222222"
+cursor_bg = "#959595"
+cursor_border = "#959595"
+scrollbar_thumb = "#A0BAD6"
+
+ansi = ["#808080", "#D45A60", "#AFBA67", "#E5D289", "#A0BAD6", "#C092D6", "#91BFB7", "#949595"]
+brights = ["#EDECEE", "#D3232F", "#AABB39", "#E5BE39", "#6699D6", "#AB53D6", "#5FC0AE", "#C1C2C2"]
+
+[colors.indexed]
+[metadata]
+name = "Later This Evening"

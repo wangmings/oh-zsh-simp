@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D9D9D9"
+background = "#353A44"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#353A44"
+cursor_bg = "#D9D9D9"
+cursor_border = "#D9D9D9"
+scrollbar_thumb = "#6A8799"
+
+ansi = ["#c3c3c3", "#BC5653", "#909D63", "#EBC17A", "#6A8799", "#B06698", "#C9DFFF", "#D9D9D9"]
+brights = ["#EDECEE", "#BC5653", "#A0AC77", "#EBC17A", "#7EAAC7", "#B06698", "#ACBBD0", "#F7F7F7"]
+
+[colors.indexed]
+[metadata]
+name = "Relaxed"

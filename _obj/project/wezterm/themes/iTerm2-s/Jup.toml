@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#23476A"
+background = "#758480"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#758480"
+cursor_bg = "#23476A"
+cursor_border = "#23476A"
+scrollbar_thumb = "#006FDD"
+
+ansi = ["#000000", "#fff3ff", "#6FDD00", "#ffd16e", "#9bcdff", "#ffdfff", "#00DD6F", "#F2F2F2"]
+brights = ["#EDECEE", "#ffdbff", "#B9FF74", "#FFB974", "#dfffff", "#ffd7ff", "#74FFB9", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Jup"

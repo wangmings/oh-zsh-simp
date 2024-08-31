@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F1F1F1"
+background = "#212121"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#212121"
+cursor_bg = "#F1F1F1"
+cursor_border = "#F1F1F1"
+scrollbar_thumb = "#008EC4"
+
+ansi = ["#747474", "#C30771", "#10A778", "#A89C14", "#008EC4", "#b195da", "#20A5BA", "#D9D9D9"]
+brights = ["#EDECEE", "#FB007A", "#5FD7AF", "#F3E430", "#20BBFC", "#6855DE", "#4FB8CC", "#F1F1F1"]
+
+[colors.indexed]
+[metadata]
+name = "Pencil Dark"

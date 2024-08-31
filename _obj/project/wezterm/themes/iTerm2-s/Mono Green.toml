@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#0BFF00"
+background = "#022B00"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#022B00"
+cursor_bg = "#0BFF00"
+cursor_border = "#0BFF00"
+scrollbar_thumb = "#0BFF00"
+
+ansi = ["#649a56", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00"]
+brights = ["#EDECEE", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00", "#0BFF00"]
+
+[colors.indexed]
+[metadata]
+name = "Mono Green"

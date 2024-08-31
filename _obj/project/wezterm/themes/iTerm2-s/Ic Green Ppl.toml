@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D9EFD3"
+background = "#3A3D3F"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#3A3D3F"
+cursor_bg = "#D9EFD3"
+cursor_border = "#D9EFD3"
+scrollbar_thumb = "#149B45"
+
+ansi = ["#717171", "#FB002A", "#339C24", "#659B25", "#149B45", "#53B82C", "#2CB868", "#E0FFEF"]
+brights = ["#EDECEE", "#A7FF3F", "#9FFF6D", "#D2FF6D", "#72FFB5", "#50FF3E", "#22FF71", "#DAEFD0"]
+
+[colors.indexed]
+[metadata]
+name = "Ic Green Ppl"

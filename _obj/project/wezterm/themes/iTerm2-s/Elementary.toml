@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F2F2F2"
+background = "#101010"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#101010"
+cursor_bg = "#F2F2F2"
+cursor_border = "#F2F2F2"
+scrollbar_thumb = "#004F9E"
+
+ansi = ["#868686", "#E1321A", "#6AB017", "#FFC005", "#004F9E", "#EC0048", "#2AA7E7", "#F2F2F2"]
+brights = ["#EDECEE", "#FF361E", "#7BC91F", "#FFD00A", "#0071FF", "#FF1D62", "#4BB8FD", "#A020F0"]
+
+[colors.indexed]
+[metadata]
+name = "Elementary"

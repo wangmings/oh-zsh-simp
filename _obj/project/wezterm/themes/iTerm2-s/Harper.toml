@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#A8A49D"
+background = "#010101"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#010101"
+cursor_bg = "#A8A49D"
+cursor_border = "#A8A49D"
+scrollbar_thumb = "#489E48"
+
+ansi = ["#555555", "#F8B63F", "#7FB5E1", "#D6DA25", "#489E48", "#B296C6", "#F5BFD7", "#A8A49D"]
+brights = ["#EDECEE", "#F8B63F", "#7FB5E1", "#D6DA25", "#489E48", "#B296C6", "#F5BFD7", "#FEFBEA"]
+
+[colors.indexed]
+[metadata]
+name = "Harper"

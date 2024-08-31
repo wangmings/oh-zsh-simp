@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DEDACF"
+background = "#171717"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#171717"
+cursor_bg = "#DEDACF"
+cursor_border = "#DEDACF"
+scrollbar_thumb = "#5DA9F6"
+
+ansi = ["#555555", "#FF615A", "#B1E969", "#EBD99C", "#5DA9F6", "#E86AFF", "#82FFF7", "#DEDACF"]
+brights = ["#EDECEE", "#F58C80", "#DDF88F", "#EEE5B2", "#A5C7FF", "#DDAAFF", "#B7FFF9", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Wombat"

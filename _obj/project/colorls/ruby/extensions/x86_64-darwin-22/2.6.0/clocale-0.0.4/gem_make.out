@@ -1,0 +1,65 @@
+current directory: /Users/mac/oh-zsh-simp/_obj/project/colorls/ruby/gems/clocale-0.0.4/ext/clocale
+/Users/mac/.rbenv/versions/2.6.0/bin/ruby -I /Users/mac/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20240831-53395-ukbljp.rb extconf.rb
+checking for locale.h... yes
+checking for setlocale()... yes
+checking for strcoll()... yes
+checking for strxfrm()... yes
+creating Makefile
+
+current directory: /Users/mac/oh-zsh-simp/_obj/project/colorls/ruby/gems/clocale-0.0.4/ext/clocale
+make "DESTDIR=" clean
+
+current directory: /Users/mac/oh-zsh-simp/_obj/project/colorls/ruby/gems/clocale-0.0.4/ext/clocale
+make "DESTDIR="
+compiling clocale.c
+clocale.c:35:34: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+    VALUE sym = rb_funcall(self, rb_intern("lookup_const"), 1, category);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+        __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+                      ^
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:2602:20: note: expanded from macro 'rb_funcall'
+        rb_funcallv(recv, mid, \
+                          ^~~
+clocale.c:35:34: note: '{' token is here
+    VALUE sym = rb_funcall(self, rb_intern("lookup_const"), 1, category);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+        __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+    {                                                   \
+    ^
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:2602:20: note: expanded from macro 'rb_funcall'
+        rb_funcallv(recv, mid, \
+                          ^~~
+clocale.c:35:34: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+    VALUE sym = rb_funcall(self, rb_intern("lookup_const"), 1, category);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+        __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+    }
+    ^
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:2602:20: note: expanded from macro 'rb_funcall'
+        rb_funcallv(recv, mid, \
+                          ^~~
+clocale.c:35:34: note: ')' token is here
+    VALUE sym = rb_funcall(self, rb_intern("lookup_const"), 1, category);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+        __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+                                                       ^
+/Users/mac/.rbenv/versions/2.6.0/include/ruby-2.6.0/ruby/ruby.h:2602:20: note: expanded from macro 'rb_funcall'
+        rb_funcallv(recv, mid, \
+                          ^~~
+clocale.c:32:9: warning: mixing declarations and code is incompatible with standards before C99 [-Wdeclaration-after-statement]
+  char* ret = setlocale(cat, loc);
+        ^
+3 warnings generated.
+linking shared-object clocale/clocale.bundle
+
+current directory: /Users/mac/oh-zsh-simp/_obj/project/colorls/ruby/gems/clocale-0.0.4/ext/clocale
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 clocale.bundle ./.gem.20240831-53395-388laj/clocale

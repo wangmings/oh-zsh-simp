@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FFFFFF"
+background = "#211F46"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#211F46"
+cursor_bg = "#FFFFFF"
+cursor_border = "#FFFFFF"
+scrollbar_thumb = "#BC0116"
+
+ansi = ["#575757", "#0F49C4", "#48B117", "#E87324", "#BC0116", "#665B93", "#70A699", "#F5DCBE"]
+brights = ["#EDECEE", "#1C96C7", "#3BFF6F", "#EFC31C", "#FB605B", "#975B5A", "#1EFF8E", "#F6F5FB"]
+
+[colors.indexed]
+[metadata]
+name = "Morada"

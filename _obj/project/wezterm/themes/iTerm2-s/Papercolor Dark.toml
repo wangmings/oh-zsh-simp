@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D0D0D0"
+background = "#1C1C1C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1C1C1C"
+cursor_bg = "#D0D0D0"
+cursor_border = "#D0D0D0"
+scrollbar_thumb = "#5FAFD7"
+
+ansi = ["#6e6e6e", "#AF005F", "#5FAF00", "#D7AF5F", "#5FAFD7", "#808080", "#D7875F", "#D0D0D0"]
+brights = ["#EDECEE", "#5FAF5F", "#AFD700", "#AF87D7", "#FFAF00", "#FF5FAF", "#00AFAF", "#5F8787"]
+
+[colors.indexed]
+[metadata]
+name = "Papercolor Dark"

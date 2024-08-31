@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#A1A1A1"
+background = "#0A1E24"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0A1E24"
+cursor_bg = "#A1A1A1"
+cursor_border = "#A1A1A1"
+scrollbar_thumb = "#A9CDEB"
+
+ansi = ["#585858", "#E9897C", "#B6377D", "#ECEBBE", "#A9CDEB", "#75507B", "#C9CAEC", "#F2F2F2"]
+brights = ["#EDECEE", "#F99286", "#C3F786", "#FCFBCC", "#B6DEFB", "#AD7FA8", "#D7D9FC", "#E2E2E2"]
+
+[colors.indexed]
+[metadata]
+name = "Square"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DDEEDD"
+background = "#1C1C1C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1C1C1C"
+cursor_bg = "#DDEEDD"
+cursor_border = "#DDEEDD"
+scrollbar_thumb = "#6495ED"
+
+ansi = ["#968c7f", "#CD5C5C", "#86AF80", "#E8AE5B", "#6495ED", "#DEB887", "#B0C4DE", "#BBAA99"]
+brights = ["#EDECEE", "#CC5533", "#88AA22", "#FFA75D", "#87CEEB", "#996600", "#B0C4DE", "#DDCCBB"]
+
+[colors.indexed]
+[metadata]
+name = "Arthur"

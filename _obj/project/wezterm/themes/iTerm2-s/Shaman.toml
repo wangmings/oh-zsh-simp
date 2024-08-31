@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#405555"
+background = "#001015"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#001015"
+cursor_bg = "#405555"
+cursor_border = "#405555"
+scrollbar_thumb = "#449A86"
+
+ansi = ["#55737a", "#B2302D", "#00A941", "#5E8BAA", "#449A86", "#00599D", "#5D7E19", "#405555"]
+brights = ["#EDECEE", "#FF4242", "#2AEA5E", "#8ED4FD", "#61D5BA", "#1298FF", "#98D028", "#58FBD6"]
+
+[colors.indexed]
+[metadata]
+name = "Shaman"

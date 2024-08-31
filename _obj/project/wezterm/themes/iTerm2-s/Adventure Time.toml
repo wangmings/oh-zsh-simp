@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F8DCC0"
+background = "#1F1D45"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1F1D45"
+cursor_bg = "#F8DCC0"
+cursor_border = "#F8DCC0"
+scrollbar_thumb = "#0F4AC6"
+
+ansi = ["#585757", "#BD0013", "#4AB118", "#E7741E", "#0F4AC6", "#665993", "#70A598", "#F8DCC0"]
+brights = ["#EDECEE", "#FC5F5A", "#9EFF6E", "#EFC11A", "#1997C6", "#9B5953", "#C8FAF4", "#F6F5FB"]
+
+[colors.indexed]
+[metadata]
+name = "Adventure Time"

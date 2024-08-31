@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#FCFCFC"
+background = "#232627"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#232627"
+cursor_bg = "#FCFCFC"
+cursor_border = "#FCFCFC"
+scrollbar_thumb = "#1D99F3"
+
+ansi = ["#767a7b", "#ED1515", "#11D116", "#F67400", "#1D99F3", "#9B59B6", "#1ABC9C", "#FCFCFC"]
+brights = ["#EDECEE", "#C0392B", "#1CDC9A", "#FDBC4B", "#3DAEE9", "#8E44AD", "#16A085", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Breeze"

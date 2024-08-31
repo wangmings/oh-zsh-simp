@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#BBBBBB"
+background = "#171717"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#171717"
+cursor_bg = "#BBBBBB"
+cursor_border = "#BBBBBB"
+scrollbar_thumb = "#64D0F0"
+
+ansi = ["#4C4C4C", "#BB0000", "#04F623", "#F3F167", "#64D0F0", "#CE6FDB", "#00DADF", "#BBBBBB"]
+brights = ["#EDECEE", "#FF5555", "#7DF71D", "#FFFF55", "#62CBE8", "#FF9BF5", "#00CCD8", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Nightlion V2"

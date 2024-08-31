@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#514968"
+background = "#100815"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#100815"
+cursor_bg = "#514968"
+cursor_border = "#514968"
+scrollbar_thumb = "#6580B0"
+
+ansi = ["#787180", "#91284C", "#23801C", "#B49D27", "#6580B0", "#674D96", "#8AAABE", "#524966"]
+brights = ["#EDECEE", "#D5356C", "#2CD946", "#FDE83B", "#90BAF9", "#A479E3", "#ACD4EB", "#9E8CBD"]
+
+[colors.indexed]
+[metadata]
+name = "Royal"

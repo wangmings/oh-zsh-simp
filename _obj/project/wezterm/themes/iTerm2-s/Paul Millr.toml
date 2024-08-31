@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F2F2F2"
+background = "#000000"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#000000"
+cursor_bg = "#F2F2F2"
+cursor_border = "#F2F2F2"
+scrollbar_thumb = "#396BD7"
+
+ansi = ["#7f7f7f", "#FF0000", "#79FF0F", "#D3BF00", "#396BD7", "#B449BE", "#66CCFF", "#BBBBBB"]
+brights = ["#EDECEE", "#FF0080", "#66FF66", "#F3D64E", "#709AED", "#DB67E6", "#7ADFF2", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Paul Millr"

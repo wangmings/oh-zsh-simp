@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#444444"
+background = "#EEEEEE"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#EEEEEE"
+cursor_bg = "#444444"
+cursor_border = "#444444"
+scrollbar_thumb = "#0087AF"
+
+ansi = ["#ddb0bc", "#AF0000", "#008700", "#5F8700", "#0087AF", "#878787", "#005F87", "#444444"]
+brights = ["#4a4543", "#DB7093", "#D70087", "#8700AF", "#00A1F1", "#D75F00", "#005FAF", "#005F87"]
+
+[colors.indexed]
+[metadata]
+name = "Papercolor Light"

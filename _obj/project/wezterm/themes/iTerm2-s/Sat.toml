@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#23476A"
+background = "#758480"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#758480"
+cursor_bg = "#23476A"
+cursor_border = "#23476A"
+scrollbar_thumb = "#0007DD"
+
+ansi = ["#000000", "#ffeec2", "#07DD00", "#DDD600", "#0007DD", "#ff92ff", "#00DDD6", "#F2F2F2"]
+brights = ["#EDECEE", "#ffd9d8", "#78FF74", "#FFFA74", "#e1d8ff", "#ffdcff", "#74FFFA", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Sat"

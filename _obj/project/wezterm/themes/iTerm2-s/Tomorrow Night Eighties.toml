@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#CCCCCC"
+background = "#2C2C2C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2C2C2C"
+cursor_bg = "#CCCCCC"
+cursor_border = "#CCCCCC"
+scrollbar_thumb = "#6699CC"
+
+ansi = ["#b1b1b1", "#F27779", "#99CC99", "#FFCC66", "#6699CC", "#CC99CC", "#66CCCC", "#FFFEFE"]
+brights = ["#EDECEE", "#F17779", "#99CC99", "#FFCC66", "#6699CC", "#CC99CC", "#66CCCC", "#FFFEFE"]
+
+[colors.indexed]
+[metadata]
+name = "Tomorrow Night Eighties"

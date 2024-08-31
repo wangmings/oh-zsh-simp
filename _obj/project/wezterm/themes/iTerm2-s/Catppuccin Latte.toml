@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#4C4F69"
+background = "#EFF1F5"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#EFF1F5"
+cursor_bg = "#4C4F69"
+cursor_border = "#4C4F69"
+scrollbar_thumb = "#1E66F5"
+
+ansi = ["#5C5F77", "#D20F39", "#40A02B", "#DF8E1D", "#1E66F5", "#EA76CB", "#179299", "#6f80ac"]
+brights = ["#4a4543", "#DB7093", "#40A02B", "#DF8E1D", "#00A1F1", "#EA76CB", "#179299", "#7d90ba"]
+
+[colors.indexed]
+[metadata]
+name = "Catppuccin Latte"

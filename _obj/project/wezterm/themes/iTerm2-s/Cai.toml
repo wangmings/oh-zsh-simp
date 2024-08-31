@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#D9E6F2"
+background = "#09111A"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#09111A"
+cursor_bg = "#D9E6F2"
+cursor_border = "#D9E6F2"
+scrollbar_thumb = "#274DCA"
+
+ansi = ["#555555", "#CA274D", "#4DCA27", "#CAA427", "#274DCA", "#A427CA", "#27CAA4", "#808080"]
+brights = ["#EDECEE", "#E98DA3", "#A3E98D", "#E9D48D", "#8DA3E9", "#D48DE9", "#8DE9D4", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Cai"

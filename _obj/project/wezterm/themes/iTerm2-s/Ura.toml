@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#23476A"
+background = "#FEFFEE"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FEFFEE"
+cursor_bg = "#23476A"
+cursor_border = "#23476A"
+scrollbar_thumb = "#1B6FC2"
+
+ansi = ["#000000", "#C21B6F", "#6FC21B", "#C26F1B", "#1B6FC2", "#6F1BC2", "#1BC26F", "#808080"]
+brights = ["#4a4543", "#DB7093", "#76bf32", "#c78435", "#00A1F1", "#B984EE", "#00c17d", "#d4a8b4"]
+
+[colors.indexed]
+[metadata]
+name = "Ura"

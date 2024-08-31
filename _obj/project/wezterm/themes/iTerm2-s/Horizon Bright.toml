@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#1C1E26"
+background = "#FDF0ED"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FDF0ED"
+cursor_bg = "#1C1E26"
+cursor_border = "#1C1E26"
+scrollbar_thumb = "#26BBD9"
+
+ansi = ["#16161C", "#DA103F", "#1EB980", "#F6661E", "#26BBD9", "#EE64AE", "#1D8991", "#e39e8b"]
+brights = ["#4a4543", "#DB7093", "#00ac4e", "#F77D26", "#00A1F1", "#F075B7", "#1EAEAE", "#eab3a7"]
+
+[colors.indexed]
+[metadata]
+name = "Horizon Bright"

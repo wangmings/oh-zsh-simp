@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#98D1CE"
+background = "#0A0F14"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0A0F14"
+cursor_bg = "#98D1CE"
+cursor_border = "#98D1CE"
+scrollbar_thumb = "#195465"
+
+ansi = ["#5b5f64", "#C33027", "#26A98B", "#EDB54B", "#195465", "#4E5165", "#33859D", "#98D1CE"]
+brights = ["#EDECEE", "#D26939", "#5d7183", "#245361", "#688ea2", "#888BA5", "#599CAA", "#D3EBE9"]
+
+[colors.indexed]
+[metadata]
+name = "Gotham"

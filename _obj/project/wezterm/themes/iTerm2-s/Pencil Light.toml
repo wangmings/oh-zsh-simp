@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#424242"
+background = "#F1F1F1"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#F1F1F1"
+cursor_bg = "#424242"
+cursor_border = "#424242"
+scrollbar_thumb = "#008EC4"
+
+ansi = ["#212121", "#C30771", "#10A778", "#A89C14", "#008EC4", "#523C79", "#20A5BA", "#c89ca8"]
+brights = ["#4a4543", "#DB7093", "#00aa78", "#bbb400", "#00A1F1", "#6855DE", "#4FB8CC", "#e0b3bf"]
+
+[colors.indexed]
+[metadata]
+name = "Pencil Light"

@@ -1,0 +1,15 @@
+# 忽略 macOS 的 .DS_Store 文件
+.DS_Store
+
+# 忽略 macOS 上的应用程序生成的文件夹
+.Trash
+.Spotlight-V100
+.AppleDouble
+.LSOverride
+
+# 忽略 macOS 上的临时文件夹
+*.swp
+*.swo
+
+# 如果你有特定的文件夹需要排除
+# my_special_folder/

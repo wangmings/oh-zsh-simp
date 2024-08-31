@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#807A74"
+background = "#22211D"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#22211D"
+cursor_bg = "#807A74"
+cursor_border = "#807A74"
+scrollbar_thumb = "#497F7D"
+
+ansi = ["#949486", "#98290F", "#479A43", "#7F7111", "#497F7D", "#7F4E2F", "#387F58", "#807974"]
+brights = ["#EDECEE", "#E0502A", "#61E070", "#D69927", "#79D9D9", "#CD7C54", "#59D599", "#FFF1E9"]
+
+[colors.indexed]
+[metadata]
+name = "Elemental"

@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#C9C9C9"
+background = "#1A1818"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1A1818"
+cursor_bg = "#C9C9C9"
+cursor_border = "#C9C9C9"
+scrollbar_thumb = "#485B98"
+
+ansi = ["#86807f", "#A7463D", "#587744", "#9D602A", "#485B98", "#864651", "#9C814F", "#C9C9C9"]
+brights = ["#EDECEE", "#AA000C", "#128C21", "#FC6A21", "#7999F7", "#FD8AA1", "#FAD484", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Sundried"

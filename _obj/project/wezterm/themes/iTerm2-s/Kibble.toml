@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F7F7F7"
+background = "#0E100A"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#0E100A"
+cursor_bg = "#F7F7F7"
+cursor_border = "#F7F7F7"
+scrollbar_thumb = "#3449D1"
+
+ansi = ["#4D4D4D", "#C70031", "#29CF13", "#D8E30E", "#3449D1", "#8400FF", "#0798AB", "#E2D1E3"]
+brights = ["#EDECEE", "#F01578", "#6CE05C", "#F3F79E", "#97A4F7", "#C495F0", "#68F2E0", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Kibble"

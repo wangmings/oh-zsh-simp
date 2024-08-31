@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#E2E2E3"
+background = "#2C2E34"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2C2E34"
+cursor_bg = "#E2E2E3"
+cursor_border = "#E2E2E3"
+scrollbar_thumb = "#F39660"
+
+ansi = ["#81838b", "#FC5D7C", "#9ED072", "#E7C664", "#F39660", "#B39DF3", "#76CCE0", "#E2E2E3"]
+brights = ["#EDECEE", "#FC5D7C", "#9ED072", "#E7C664", "#F39660", "#B39DF3", "#76CCE0", "#E2E2E3"]
+
+[colors.indexed]
+[metadata]
+name = "Sonokai"

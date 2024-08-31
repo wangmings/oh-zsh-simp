@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#F1F1F1"
+background = "#282828"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#282828"
+cursor_bg = "#F1F1F1"
+cursor_border = "#F1F1F1"
+scrollbar_thumb = "#81B2B1"
+
+ansi = ["#F18260", "#B51A20", "#A6CC75", "#FED33A", "#81B2B1", "#EB6C4E", "#81B2B1", "#EAEAEA"]
+brights = ["#EDECEE", "#FF000B", "#C4EE94", "#E8E06D", "#A5EBEA", "#EF8A50", "#A5EBEA", "#FFFFFF"]
+
+[colors.indexed]
+[metadata]
+name = "Predawn"

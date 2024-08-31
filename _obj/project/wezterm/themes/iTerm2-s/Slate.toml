@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#35B1D2"
+background = "#222222"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#222222"
+cursor_bg = "#35B1D2"
+cursor_border = "#35B1D2"
+scrollbar_thumb = "#264B49"
+
+ansi = ["#757575", "#E2A8BF", "#81D778", "#C4C9C0", "#7fa6a3", "#A481D3", "#15AB9C", "#02C5E0"]
+brights = ["#EDECEE", "#FFCDD9", "#BEFFA8", "#D0CCCA", "#7AB0D2", "#C5A7D9", "#8CDFE0", "#E0E0E0"]
+
+[colors.indexed]
+[metadata]
+name = "Slate"

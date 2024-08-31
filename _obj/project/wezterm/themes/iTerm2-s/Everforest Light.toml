@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#5C6A72"
+background = "#FDF6E3"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FDF6E3"
+cursor_bg = "#5C6A72"
+cursor_border = "#5C6A72"
+scrollbar_thumb = "#3A94C5"
+
+ansi = ["#5C6A72", "#F85552", "#8DA101", "#DFA000", "#3A94C5", "#DF69BA", "#35A77C", "#afad77"]
+brights = ["#4a4543", "#DB7093", "#6b9334", "#af8b2c", "#00A1F1", "#D699B6", "#2c9553", "#aa955a"]
+
+[colors.indexed]
+[metadata]
+name = "Everforest Light"

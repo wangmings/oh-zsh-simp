@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#B8A898"
+background = "#2A211C"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#2A211C"
+cursor_bg = "#B8A898"
+cursor_border = "#B8A898"
+scrollbar_thumb = "#0066FF"
+
+ansi = ["#555555", "#CC0000", "#1A921C", "#F0E53A", "#0066FF", "#C5656B", "#06989A", "#D3D7CF"]
+brights = ["#EDECEE", "#EF2929", "#9AFF87", "#FFFB5C", "#43A8ED", "#FF818A", "#34E2E2", "#EEEEEC"]
+
+[colors.indexed]
+[metadata]
+name = "Espresso Libre"

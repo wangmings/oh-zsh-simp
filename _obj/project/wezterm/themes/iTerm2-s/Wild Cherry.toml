@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#DAFAFF"
+background = "#1F1726"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1F1726"
+cursor_bg = "#DAFAFF"
+cursor_border = "#DAFAFF"
+scrollbar_thumb = "#883CDC"
+
+ansi = ["#555859", "#D94085", "#2AB250", "#FFD16F", "#883CDC", "#ECECEC", "#C1B8B7", "#FFF8DE"]
+brights = ["#EDECEE", "#DA6BAC", "#F4DCA5", "#EAC066", "#308CBA", "#AE636B", "#FF919D", "#E4838D"]
+
+[colors.indexed]
+[metadata]
+name = "Wild Cherry"

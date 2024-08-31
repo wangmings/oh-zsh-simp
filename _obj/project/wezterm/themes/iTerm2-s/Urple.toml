@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#877A9B"
+background = "#1B1B23"
+selection_fg = "#2196f3"
+selection_bg = "#EDECEE"
+cursor_fg = "#1B1B23"
+cursor_bg = "#877A9B"
+cursor_border = "#877A9B"
+scrollbar_thumb = "#564D9B"
+
+ansi = ["#555555", "#B0425B", "#37A415", "#AD5C42", "#564D9B", "#6C3CA1", "#808080", "#87799C"]
+brights = ["#EDECEE", "#FF6388", "#29E620", "#F08161", "#867AED", "#A05EEE", "#EAEAEA", "#BFA3FF"]
+
+[colors.indexed]
+[metadata]
+name = "Urple"

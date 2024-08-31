@@ -1,0 +1,17 @@
+
+[colors]
+foreground = "#262626"
+background = "#FFFFFF"
+selection_fg = "#FF9940"
+selection_bg = "#4a4543"
+cursor_fg = "#FFFFFF"
+cursor_bg = "#262626"
+cursor_border = "#262626"
+scrollbar_thumb = "#135CD0"
+
+ansi = ["#000000", "#F8282A", "#328A5D", "#FA701D", "#135CD0", "#9F00BD", "#33C3C1", "#B3B3B3"]
+brights = ["#4a4543", "#DB7093", "#2CC631", "#c8a600", "#00A1F1", "#E900B0", "#00a9a3", "#bdbe9a"]
+
+[colors.indexed]
+[metadata]
+name = "Clrs"
